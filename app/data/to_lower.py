@@ -1,4 +1,4 @@
-f = open("climate_change.csv")
+f = open("version2.csv")
 
 state_map = open("../state-name-map.csv")
 
