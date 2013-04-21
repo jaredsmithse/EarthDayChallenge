@@ -31,22 +31,39 @@ Profile Navigation
 }
 
 #profilenav {
-  background: #19062B;
+  background: rgb(46,46,46);
+  border: 2px double rgb(201,59,40);
   height: 30px;
-  margin-bottom: 70px; 
+  margin-bottom: 75px; 
   padding-top: 5px; 
   border-radius: 10px;
 }
 
 #profilenav li {
   float: left;
-  margin: 0px 70px;
+  margin: 0px 90px;
   list-style: none;
   font-family: "GoodDog";
   font-size: 1.5em;
 }
 
+/*****************************************
+Profile Layout
+*****************************************/
 
+.profilepic {
+  float: left;
+  border: 2px solid red;
+  margin: 10px;
+}
+
+#profile h2 {
+  color : white;
+}
+
+#profile p {
+  color: gray;
+}
 
 
 

@@ -29,6 +29,7 @@ General Header
 body {
   background : URL('../images/binding_dark.png');
   padding-top: 25px;
+  font-size: 1em;
 }
 
 #headline {
@@ -36,7 +37,7 @@ body {
 }
 
 #headline h1 {
-  font-size: 5em;
+  font-size: 4em;
   font-family: "ChunkFive";
   color: #FFFFFF;
   margin-bottom: 0px;
@@ -46,11 +47,7 @@ body {
   font-family: "GoodDog";
   font-size: 3em;
   color: #888;
-}
-
-img.logo {
-  height: 30px;
-  width: 50px;
+  text-align: center;
 }
 
 
@@ -65,12 +62,14 @@ Posts   A6B1ED
 }
 
 .post {
-  background: rgba(102,45,156,.2);
+  background: rgba(46,46,46,.3);
   padding: 15px;
   color: white;
-  border: 2px double #662D9C;
+  font-size: 1.3em;
+  border: 2px double rgb(201,59,40);
   border-radius: 10px;
   margin-bottom: 30px;
+  font-family: "GoodDog";
 }
 
 /*****************************************
