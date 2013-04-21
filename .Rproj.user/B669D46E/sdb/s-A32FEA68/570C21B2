@@ -1,0 +1,21 @@
+{
+    "contents" : "",
+    "created" : 1366553745942.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "570C21B2",
+    "lastKnownWriteTime" : 7957688121987921003,
+    "path" : null,
+    "properties" : {
+        "caption" : "joined",
+        "contentUrl" : "content?title=joined&file=005e2ecad6554d14975ec757ef1b6e8a.htm",
+        "displayedObservations" : "1000",
+        "displayedVariables" : 16,
+        "totalObservations" : "2932934",
+        "variables" : "16"
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

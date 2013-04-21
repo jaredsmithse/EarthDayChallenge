@@ -1,0 +1,15 @@
+{
+    "contents" : "library(shiny) # Load shiny\nlibrary(ggplot2)\n\n# inputId\n\nshinyUI(pageWithSidebar(\n  headerPanel(\n    title = \"Climate Time Machine\",\n    windowTitle = \"NASA Space Apps Challenge 2013\"\n  ),\n  \n  sidebarPanel(\n    sliderInput(\n      inputId = \"time\",\n      label = \"Year\",\n      min = 0,\n      max = 10,\n      value = 2\n    )\n  ),\n  \n  mainPanel(\n    plotOutput(outputId = \"map\")\n  )\n))",
+    "created" : 1366512584603.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1912920847",
+    "id" : "9CC6B3A9",
+    "lastKnownWriteTime" : 1366526379,
+    "path" : "~/Developer/Sites/EarthDayChallenge/app/ui.R",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

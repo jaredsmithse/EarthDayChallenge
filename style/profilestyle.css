@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'ChunkFive';
+    src: url('fonts/ChunkFive/Chunkfive-webfont.eot');
+    src: url('fonts/ChunkFive/Chunkfive-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/ChunkFive/Chunkfive-webfont.woff') format('woff'),
+         url('fonts/ChunkFive/Chunkfive-webfont.ttf') format('truetype'),
+         url('fonts/ChunkFive/Chunkfive-webfont.svg#ChunkFiveRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GoodDog';
+    src: url('fonts/GoodDog/GoodDog-webfont.eot');
+    src: url('fonts/GoodDog/GoodDog-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/GoodDog/GoodDog-webfont.woff') format('woff'),
+         url('fonts/GoodDog/GoodDog-webfont.ttf') format('truetype'),
+         url('fonts/GoodDog/GoodDog-webfont.svg#GoodDogRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+/*****************************************
+Profile Navigation
+*****************************************/
+
+#headline {
+  margin-bottom: 0px;
+}
+
+#profilenav {
+  background: #19062B;
+  height: 30px;
+  margin-bottom: 70px; 
+  padding-top: 5px; 
+  border-radius: 10px;
+}
+
+#profilenav li {
+  float: left;
+  margin: 0px 70px;
+  list-style: none;
+  font-family: "GoodDog";
+  font-size: 1.5em;
+}
+
+
+
+
+
+
+
+

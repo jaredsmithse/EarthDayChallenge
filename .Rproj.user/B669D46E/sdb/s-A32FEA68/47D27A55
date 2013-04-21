@@ -1,0 +1,15 @@
+{
+    "contents" : "library(shiny) # Load shiny\nlibrary(ggplot2) # Fancy Plots\nlibrary(maps) # Map Data\n\n\npoly.county <- map_data(\"county\")\n\nclimate.change <- read.csv(\"./data/fixed_climate_data.csv\")\n\n#climate.change$subregion <- gsub(\"\\\\.\", \"\", climate.change$subregion)\n\njoined <- merge(poly.county, climate.change, by = c(\"region\", \"subregion\"), all.x = TRUE)\n\njoined <- joined[order(joined$order), ] # Fix merge dicking around with ordering\n\np <- ggplot() + guides(fill=FALSE) +\n  geom_polygon(\n    data = joined,\n    aes(\n      x = long,\n      y = lat,\n      group = group,\n      fill = subregion), # Color is one-per-region\n    colour = \"white\"  # Ouline color is white\n  )\n\nprint(p)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n#County data for air quality plotting\npoly.county <- map_data(\"county\")\n\nair.quality <- read.csv(\"./data/air-quality-2010.csv\")\n\nair.quality$subregion <- gsub(\"\\\\.\", \"\", air.quality$subregion)\n\njoined <- merge(poly.county, air.quality, by = c(\"region\", \"subregion\"), all.x = TRUE)\n\njoined <- joined[order(joined$order), ] # Fix merge dicking around with ordering\n\nshinyServer(function(input, output) {\n  output[[\"map\"]] <- renderPlot({\n    p <- ggplot() + guides(fill=FALSE) +\n      geom_polygon(\n        data = joined,\n        aes(\n          x = long,\n          y = lat,\n          group = group,\n          fill = subregion), # Color is one-per-region\n        colour = \"white\"  # Ouline color is white\n      )\n    \n    print(p)\n  })\n})",
+    "created" : 1366537593330.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "190935550",
+    "id" : "47D27A55",
+    "lastKnownWriteTime" : 1366550874,
+    "path" : "~/Developer/Sites/EarthDayChallenge/app/server.R",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
