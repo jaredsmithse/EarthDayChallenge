@@ -1,0 +1,2 @@
+http://www.epa.gov/cgi-bin/broker?_service=data&_debug=0&_program=dataprog.ad_rep_con.sas&querytext=&fld=&areaname=&areacontacts=&areasearchurl=&typeofsearch=epa&result_template=epafiles_default.xsl&filter=sample4filt.hts&year=2010&state=50&cbsa=-1&county=-1&sumlevel=groupbycounty&flag=Y
+http://www.epa.gov/cgi-bin/broker?_service=data&_debug=0&_program=dataprog.ad_rep_con.sas&querytext=&fld=&areaname=&areacontacts=&areasearchurl=&typeofsearch=epa&result_template=epafiles_default.xsl&filter=sample4filt.hts&year=2007&state=78&cbsa=-1&county=-1&sumlevel=groupbycounty&flag=Y
