@@ -11,7 +11,7 @@ file.each do |line|
 end
 file.close
 
-file = File.open("SampleData.csv","r")
+file = File.open("awesome-stuff.csv","r")
 
 file.each do |line|
 	row = line.split(',')
