@@ -47,6 +47,10 @@ Profile Navigation
   font-size: 1.5em;
 }
 
+#clicked {
+  color: white;
+}
+
 /*****************************************
 Profile Layout
 *****************************************/

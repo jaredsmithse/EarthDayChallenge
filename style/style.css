@@ -98,6 +98,27 @@ Navigation Bar
 }
 
 
+/*****************************************
+Icon Sets
+*****************************************/
+
+.icon {
+  background-image:url("../images/icons.png");
+  width: 64px;
+  height: 64px;
+  margin: 50px;
+  float: right;
+}
+
+.social {
+  list-style: none;
+}
+
+.linkedin {background-position: 0px 0px;}
+.linkedin:hover {background-position: 0px -64px;}
+
+.github {background-position: 64px 0px;}
+.github:hover {background-position: 64px -64px;}
 
 
 
