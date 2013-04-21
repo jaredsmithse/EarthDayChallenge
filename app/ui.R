@@ -13,9 +13,10 @@ shinyUI(pageWithSidebar(
     sliderInput(
       inputId = "time",
       label = "Year",
-      min = 0,
-      max = 10,
-      value = 2
+      min = 1990,
+      max = 2012,
+      value = 2008,
+      step = 1/12 # 1-month increments -- bwahaha!
     )
   ),
   
