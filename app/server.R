@@ -4,11 +4,13 @@ library(maps) # Map Data
 
 poly.county <- map_data("county")
 
-air.quality <- read.csv("app/data/air-quality-2010.csv")
+air.quality <- read.csv("data/air-quality-2010.csv")
 
 air.quality$subregion <- gsub("\\.", "", air.quality$subregion)
 
-joined <- merge(poly.county, air.quality, by = c("region"), all.x = TRUE)
+joined <- merge(poly.county, air.quality, by = c("region", "subregion"), all.x = TRUE)
+
+joined <- joined[order(joined$order), ] # Fix merge dicking around with ordering
 
 shinyServer(function(input, output) {
   output[["map"]] <- renderPlot({
@@ -19,7 +21,7 @@ shinyServer(function(input, output) {
           x = long,
           y = lat,
           group = group,
-          fill = pm2.5.wtd.am.microg.by.m3), # Color is one-per-region
+          fill = region), # Color is one-per-region
         colour = "white"  # Ouline color is white
       )
     
