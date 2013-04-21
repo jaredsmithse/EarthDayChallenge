@@ -7,19 +7,17 @@ poly.county <- map_data("county")
 
 climate.change <- read.csv("./data/subbed_climate_data.csv")
 climate.change <- with(climate.change, climate.change[order(region, subregion, DATE), ])
-# climate.change <- ddply(climate.change, .(DATE, region, subregion),
-#               summarize,
-#               TSNW = mean(TSNW, na.rm = TRUE),
-#               TPCP = mean(TPCP, na.rm = TRUE),
-#               MNTM = mean(MNTM, na.rm = TRUE))
+climate.change <- ddply(climate.change, .(DATE, region, subregion),
+              summarize,
+              TSNW = mean(TSNW, na.rm = TRUE),
+              TPCP = mean(TPCP, na.rm = TRUE),
+              MNTM = mean(MNTM, na.rm = TRUE))
 
 climate.change$subregion <- gsub("\\.", "", climate.change$subregion)
 
 joined <- merge(poly.county, climate.change, by = c("region", "subregion"), all = TRUE)
 
-print("de kalb" %in% joined$subregion)
-
-joined <- with(joined, joined[order(order), ]) # Fix merge dicking around with ordering
+joined <- with(joined, joined[order(region, subregion, order), ]) # Fix merge dicking around with ordering
 
 # joined <- subset(joined, region != NA)
 
@@ -27,28 +25,25 @@ joined <- joined[joined$DATE == "201112", ]
 
 leftover <- setdiff(with(poly.county, paste(region, subregion, sep=",")),
                     with(climate.change, paste(region, subregion, sep=",")))
+normalized.leftover <- gsub("\\s", "", leftover)
 
-setdiff(unique(with(joined, paste(region, subregion, sep=","))), leftover)
-print(intersect(leftover, with(joined, paste(region, subregion, sep = ","))))
-
-
-# joined <-
-ddply(joined, .(region, subregion, DATE), function(df) {
+joined <-ddply(joined, .(region, subregion, DATE), function(df) {
   normalized.location <- with(df[1, ], paste(region, subregion, sep = ","))
+  normalized.location <- gsub("\\s", "", normalized.location)
   
-  if (normalized.location %in% leftover)
-    stop(normalized.location)
+  if (!(normalized.location %in% normalized.leftover))
+    return(df)
   
-#   df$TSNW <- 0
-#   df$TPCP <- 0
-#   df$MNTM <- 0 # fuck everything
+  df$TSNW <- NA
+  df$TPCP <- NA
+  df$MNTM <- NA # fuck everything
   
   return(df)
 })
 
 p <- ggplot() + guides(fill=FALSE) +
   geom_polygon(
-    data = subset(poly.county, region == "alabama" & subregion == "de kalb"),
+    data = joined,
     aes(
       x = long,
       y = lat,
