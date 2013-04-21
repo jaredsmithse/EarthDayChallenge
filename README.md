@@ -2,6 +2,8 @@
 
 SpaceAppsChallenge competition
 
+Project Blog : [climatetimemachine.com](http://climatetimemachine.com)
+
 # Requirements
 
 * R 2.15.3
