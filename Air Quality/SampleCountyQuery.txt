@@ -1,2 +1,7 @@
 http://www.epa.gov/cgi-bin/broker?_service=data&_debug=0&_program=dataprog.ad_rep_con.sas&querytext=&fld=&areaname=&areacontacts=&areasearchurl=&typeofsearch=epa&result_template=epafiles_default.xsl&filter=sample4filt.hts&year=2010&state=50&cbsa=-1&county=-1&sumlevel=groupbycounty&flag=Y
 http://www.epa.gov/cgi-bin/broker?_service=data&_debug=0&_program=dataprog.ad_rep_con.sas&querytext=&fld=&areaname=&areacontacts=&areasearchurl=&typeofsearch=epa&result_template=epafiles_default.xsl&filter=sample4filt.hts&year=2007&state=78&cbsa=-1&county=-1&sumlevel=groupbycounty&flag=Y
+
+http://www.epa.gov/cgi-bin/broker?_service=data&_server=134.67.99.149&_port=4072&_sessionid=/ZB20zVE7P6&areaname=Alabama%20%20%20%20%20%20%20%20%20%20%20%20%20&sumlevel=groupbycounty&event=Excluded%20(if%20any)&year=1997&type=csv&_PROGRAM=dataprog.ad_rep_con_getdata.sas
+
+http://www.epa.gov/cgi-bin/broker?_service\=data\&_server\=134.67.99.149\&_port\=4072\&_sessionid\=/ZB20zVE7P6\&areaname\=Alaska%20%20%20%20%20%20%20%20%20%20%20%20%20\&sumlevel\=groupbycounty\&event\=Excluded%20\(if%20any\)\&year\=1997\&type\=csv\&_PROGRAM\=dataprog.ad_rep_con_getdata.sas
+http://www.epa.gov/cgi-bin/broker?_service=data&_server=134.67.99.149&_port=4072&_sessionid=/ZB2157z3G2&areaname=Arkansas%20%20%20%20%20%20%20%20%20%20%20%20&sumlevel=groupbycounty&event=Excluded%20(if%20any)&year=2010&type=csv&_PROGRAM=dataprog.ad_rep_con_getdata.sas
