@@ -1,0 +1,1093 @@
+region,subregion,population,co.8hr.ppm,pb.rqmax.microg.by.m3,no2.am.ppb,no2.1hr.ppb,o3.8hr.ppb,pm10.24hr.microg.by.m3,pm2.5.wtd.am.microg.by.m3,pm2.5.24hr.microg.by.m3,so2.am.ppb,so2.24hr.ppb,so2.1hr.ppb
+alabama,baldwin,182265,NA,NA,NA,NA,0.074,NA,10.2,20,NA,NA,NA
+alabama,clay,13932,NA,NA,NA,NA,NA,NA,10.5,22,NA,NA,NA
+alabama,colbert,54428,NA,NA,NA,NA,0.068,NA,10.5,19,NA,NA,NA
+alabama,dekalb,71109,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+alabama,elmore,79303,NA,NA,NA,NA,0.073,NA,NA,NA,NA,NA,NA
+alabama,escambia,38319,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+alabama,etowah,104430,NA,NA,NA,NA,0.065,NA,11.8,24,NA,NA,NA
+alabama,houston,101547,NA,NA,NA,NA,0.067,NA,IN,IN,NA,NA,NA
+alabama,jefferson,658466,2,NA,NA,NA,0.077,128,13.8,29,1.697,6.8,33
+alabama,madison,334811,NA,NA,NA,NA,0.071,37,11.6,20,NA,NA,NA
+alabama,mobile,412992,NA,NA,NA,NA,0.077,72,9.8,18,NA,NA,NA
+alabama,montgomery,229363,NA,NA,NA,NA,0.072,61,10.8,21,NA,NA,NA
+alabama,morgan,119490,NA,NA,NA,NA,0.07,NA,11.2,19,NA,NA,NA
+alabama,pike,32899,NA,0.89,NA,NA,NA,NA,NA,NA,NA,NA,NA
+alabama,russell,52947,NA,NA,NA,NA,0.069,NA,13.1,26,NA,NA,NA
+alabama,shelby,195085,NA,NA,NA,NA,0.074,NA,IN,IN,NA,NA,NA
+alabama,sumter,13763,NA,NA,NA,NA,0.067,NA,IN,IN,NA,NA,NA
+alabama,talladega,82291,NA,NA,NA,NA,NA,NA,11.7,21,NA,NA,NA
+alabama,tuscaloosa,194656,NA,NA,NA,NA,0.06,NA,11,22,NA,NA,NA
+alabama,walker,67023,NA,NA,NA,NA,NA,NA,11.3,19,NA,NA,NA
+alaska,anchorage municipality,291826,6,NA,NA,NA,0.045,98,5.5,20,NA,NA,NA
+alaska,denali borough,1826,NA,NA,NA,NA,0.052,NA,IN,IN,NA,NA,NA
+alaska,fairbanks north star borough,97581,IN,NA,NA,NA,NA,NA,13,52,NA,NA,NA
+alaska,juneau city and borough,31275,NA,NA,NA,NA,NA,27,7,19,NA,NA,NA
+alaska,ketchikan gateway borough,13477,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+alaska,matanuska-susitna borough,88995,NA,NA,NA,NA,NA,45,IN,38,NA,NA,NA
+alaska,northwest arctic borough,7523,NA,IN,NA,NA,NA,NA,NA,NA,NA,NA,NA
+arizona,apache,71518,NA,NA,NA,NA,NA,40,NA,NA,NA,NA,NA
+arizona,cochise,131346,NA,NA,NA,NA,0.071,83,6.8,14,NA,NA,NA
+arizona,coconino,134421,NA,NA,NA,NA,0.069,106,5.1,10,NA,NA,NA
+arizona,gila,53597,NA,NA,NA,NA,0.07,88,IN,IN,9.712,44.1,314
+arizona,la paz,20489,NA,NA,NA,NA,0.071,NA,NA,NA,NA,NA,NA
+arizona,maricopa,3817117,3,IN,24.524,68,0.079,135,9.2,24,1.742,5.3,10
+arizona,mohave,200186,NA,NA,NA,NA,NA,33,IN,IN,NA,NA,NA
+arizona,navajo,107449,NA,NA,NA,NA,0.068,33,NA,NA,NA,NA,NA
+arizona,pima,980263,1,NA,11.598,46.2,0.069,186,5.2,12,0.532,1.4,10
+arizona,pinal,375770,NA,NA,NA,NA,0.073,226,12.4,27,NA,NA,NA
+arizona,santa cruz,47420,NA,NA,NA,NA,NA,177,10.3,32,NA,NA,NA
+arizona,yavapai,211033,NA,NA,NA,NA,0.067,31,3.9,7,NA,NA,NA
+arizona,yuma,195751,NA,NA,NA,NA,0.076,113,7.4,14,NA,NA,NA
+arkansas,arkansas,19019,NA,NA,NA,NA,NA,NA,11.4,23,NA,NA,NA
+arkansas,ashley,21853,NA,NA,NA,NA,NA,NA,11.1,20,NA,NA,NA
+arkansas,craighead,96443,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+arkansas,crittenden,50902,NA,NA,10.282,51,0.078,NA,11.8,23,NA,NA,NA
+arkansas,faulkner,113237,NA,NA,NA,NA,NA,NA,11,19,NA,NA,NA
+arkansas,garland,96024,NA,NA,NA,NA,NA,NA,11,21,NA,NA,NA
+arkansas,jackson,17997,NA,NA,NA,NA,NA,NA,11,23,NA,NA,NA
+arkansas,jefferson,77435,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+arkansas,marion,16653,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+arkansas,miller,43462,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+arkansas,mississippi,46480,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+arkansas,newton,8330,NA,NA,NA,NA,0.07,NA,NA,NA,NA,NA,NA
+arkansas,phillips,21757,NA,NA,NA,NA,NA,NA,11.5,21,NA,NA,NA
+arkansas,polk,20662,NA,NA,NA,NA,0.073,NA,11,22,NA,NA,NA
+arkansas,pope,61754,NA,NA,NA,NA,NA,NA,11.3,22,NA,NA,NA
+arkansas,pulaski,382748,2,NA,9.982,51,0.073,38,12.6,23,1.698,3.7,9
+arkansas,sebastian,125744,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+arkansas,union,41639,NA,NA,NA,NA,NA,NA,11.6,21,2.022,4.4,26
+arkansas,van buren,17295,NA,NA,NA,NA,0.058,NA,NA,NA,NA,NA,NA
+arkansas,washington,203065,NA,NA,NA,NA,0.067,NA,11.1,23,NA,NA,NA
+arkansas,white,77076,NA,NA,NA,NA,NA,NA,11.6,21,NA,NA,NA
+california,alameda,1510271,2,NA,15.598,54,0.074,40,7.8,27,0.951,3.4,9.6
+california,amador,38091,NA,NA,NA,NA,0.075,NA,NA,NA,NA,NA,NA
+california,butte,220000,2,NA,7.214,32,0.076,32,8,29,NA,NA,NA
+california,calaveras,45578,NA,NA,NA,NA,0.079,23,IN,IN,NA,NA,NA
+california,colusa,21419,NA,NA,NA,NA,0.06,48,IN,IN,NA,NA,NA
+california,contra costa,1049025,1,NA,8.323,31.6,0.078,45,7.1,27,1.188,5.7,15.3
+california,del norte,28610,NA,NA,NA,NA,NA,35,NA,NA,NA,NA,NA
+california,el dorado,181058,NA,NA,NA,NA,0.081,NA,IN,IN,NA,NA,NA
+california,fresno,930450,2,NA,12.633,54,0.103,67,14.7,49,0.749,2.9,7
+california,glenn,28122,NA,NA,NA,NA,0.061,40,NA,NA,NA,NA,NA
+california,humboldt,134623,1,NA,2.651,19.1,0.045,61,5.6,18,1.303,3,3
+california,imperial,174528,6,0.02,13.828,56,0.078,89,12.8,32,0.485,3.2,7
+california,inyo,18546,NA,NA,NA,NA,0.069,2519,7.5,29,NA,NA,NA
+california,kern,839631,IN,NA,14.425,63,0.1,88,17.6,62,NA,NA,NA
+california,kings,152982,NA,NA,IN,IN,0.103,120,19.5,49,NA,NA,NA
+california,lake,64665,NA,NA,NA,NA,0.056,NA,3.1,6,NA,NA,NA
+california,los angeles,9818605,4,0.39,26.179,72.5,0.09,71,12.6,32,1.394,4.8,16.2
+california,madera,150865,NA,NA,7.796,34,0.09,NA,IN,51,NA,NA,NA
+california,marin,252409,1,NA,11.697,42,0.053,31,IN,IN,NA,NA,NA
+california,mariposa,18251,NA,NA,NA,NA,0.077,58,NA,NA,NA,NA,NA
+california,mendocino,87841,NA,NA,NA,NA,0.047,57,7.7,18,NA,NA,NA
+california,merced,255793,NA,NA,6.843,38,0.09,53,16.3,40,NA,NA,NA
+california,modoc,9686,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+california,mono,14202,NA,NA,NA,NA,NA,3096,IN,IN,NA,NA,NA
+california,monterey,415057,1,NA,6.072,31,0.064,51,4.5,10,NA,NA,NA
+california,napa,136484,1,NA,8.508,34,0.067,34,NA,NA,NA,NA,NA
+california,nevada,98764,NA,NA,3.524,20.3,0.079,NA,4.7,10,NA,NA,NA
+california,orange,3010232,2,NA,17.467,56,0.071,53,10.2,25,0.578,2.1,5.5
+california,placer,348432,NA,NA,9.967,54,0.085,33,6.6,20,NA,NA,NA
+california,plumas,20007,NA,NA,NA,NA,NA,NA,9.7,36,NA,NA,NA
+california,riverside,2189641,2,0.01,17.182,53.2,0.099,312,15.2,36,1.28,3.5,10.2
+california,sacramento,1418788,2,NA,12.494,52,0.096,54,8.7,27,0.462,1.9,1
+california,san benito,55269,NA,NA,NA,NA,0.071,30,5.7,13,NA,NA,NA
+california,san bernardino,2035210,4,0.01,23.087,65,0.109,82,13,31,1.229,6.7,11
+california,san diego,3095313,2,NA,20.975,74,0.081,101,13.3,114,1.765,7.1,18
+california,san francisco,805235,1,NA,13.382,76.6,0.046,36,10.5,24,NA,NA,NA
+california,san joaquin,685306,1,NA,13.824,49,0.075,49,IN,44,NA,NA,NA
+california,san luis obispo,269637,NA,NA,5.569,36,0.083,133,8.2,22,0.29,1.3,4
+california,san mateo,718451,2,NA,11.791,45,0.056,NA,8.3,33,NA,NA,NA
+california,santa barbara,423895,1,NA,8.593,43,0.075,51,IN,IN,1.16,2.7,5
+california,santa clara,1781642,2,NA,14.394,50.7,0.08,37,8.8,29,0.352,1.6,4.1
+california,santa cruz,262382,1,NA,1.803,IN,0.054,30,6.5,13,NA,NA,NA
+california,shasta,177223,NA,NA,NA,NA,0.074,29,4.6,10,NA,NA,NA
+california,siskiyou,44900,NA,NA,NA,NA,0.059,19,IN,IN,NA,NA,NA
+california,solano,413344,2,NA,9.299,39,0.07,32,7.7,23,0.566,2.2,6.9
+california,sonoma,483878,1,NA,8.198,35,0.054,30,7.2,22,NA,NA,NA
+california,stanislaus,514453,2,NA,10.119,39,0.087,68,12,44,NA,NA,NA
+california,sutter,94737,NA,NA,7.503,45,0.068,38,5.9,17,NA,NA,NA
+california,tehama,63463,NA,NA,NA,NA,0.077,38,IN,IN,NA,NA,NA
+california,trinity,13786,NA,NA,NA,NA,NA,32,NA,NA,NA,NA,NA
+california,tulare,442179,NA,NA,12.512,56,0.096,71,13.6,36,NA,NA,NA
+california,tuolumne,55365,NA,NA,NA,NA,0.072,NA,NA,NA,NA,NA,NA
+california,ventura,823318,NA,NA,10.096,41,0.082,45,8.7,21,NA,NA,NA
+california,yolo,200849,NA,NA,6.416,IN,0.069,49,IN,IN,NA,NA,NA
+colorado,adams,441603,2,NA,16.009,IN,0.063,68,8.6,22,0.992,8.5,37
+colorado,alamosa,15445,NA,NA,NA,NA,NA,260,NA,NA,NA,NA,NA
+colorado,arapahoe,572003,NA,IN,NA,NA,0.075,NA,6.5,15,NA,NA,NA
+colorado,archuleta,12084,NA,NA,NA,NA,NA,200,IN,IN,NA,NA,NA
+colorado,boulder,294567,2,NA,NA,NA,0.072,36,7.1,23,NA,NA,NA
+colorado,delta,30952,NA,NA,NA,NA,NA,115,IN,IN,NA,NA,NA
+colorado,denver,600158,2,0.01,27.704,71,0.069,62,7.8,19,1.644,8.8,32
+colorado,douglas,285465,NA,NA,NA,NA,0.079,NA,5.8,13,NA,NA,NA
+colorado,elbert,23086,NA,NA,NA,NA,NA,NA,4.3,9,NA,NA,NA
+colorado,el paso,622263,2,NA,NA,NA,0.072,38,6.2,12,NA,NA,NA
+colorado,fremont,46824,NA,NA,NA,NA,NA,29,NA,NA,NA,NA,NA
+colorado,garfield,56389,NA,NA,NA,NA,0.066,55,NA,NA,NA,NA,NA
+colorado,gunnison,15324,NA,NA,NA,NA,NA,123,IN,IN,NA,NA,NA
+colorado,jefferson,534543,NA,NA,NA,NA,0.076,NA,NA,NA,NA,NA,NA
+colorado,la plata,51334,1,NA,6.325,39,0.074,226,4.1,8,NA,NA,NA
+colorado,larimer,299630,2,NA,NA,NA,0.077,43,6.5,22,NA,NA,NA
+colorado,mesa,146723,1,NA,NA,NA,0.068,131,9,37,NA,NA,NA
+colorado,montezuma,25535,NA,NA,NA,NA,0.066,NA,6,13,NA,NA,NA
+colorado,pitkin,17148,NA,NA,NA,NA,0.063,45,NA,NA,NA,NA,NA
+colorado,prowers,12551,NA,NA,NA,NA,NA,131,NA,NA,NA,NA,NA
+colorado,pueblo,159063,NA,NA,NA,NA,NA,55,6.2,14,NA,NA,NA
+colorado,rio blanco,6666,NA,NA,0.963,IN,0.066,NA,IN,IN,NA,NA,NA
+colorado,routt,23509,NA,NA,NA,NA,NA,90,IN,IN,NA,NA,NA
+colorado,san miguel,7359,NA,NA,NA,NA,NA,133,IN,IN,NA,NA,NA
+colorado,summit,27994,NA,NA,NA,NA,NA,52,NA,NA,NA,NA,NA
+colorado,weld,252825,2,NA,NA,NA,0.073,43,7.6,20,NA,NA,NA
+connecticut,fairfield,916829,2,NA,10.132,50,0.084,40,9.1,26,1.529,10.4,17.8
+connecticut,hartford,894014,2,NA,9.609,44,0.076,24,8.5,24,0.996,6,9.9
+connecticut,litchfield,189927,1,NA,IN,IN,0.072,IN,6,19,IN,IN,IN
+connecticut,middlesex,165676,NA,NA,NA,NA,0.081,NA,NA,NA,NA,NA,NA
+connecticut,new haven,862477,2,NA,13.564,57,0.079,55,9.2,26,1.48,11.7,39.5
+connecticut,new london,274055,NA,NA,NA,NA,0.075,NA,7.8,21,NA,NA,NA
+connecticut,tolland,152691,NA,NA,NA,NA,0.079,NA,NA,NA,NA,NA,NA
+delaware,kent,162310,NA,NA,NA,NA,0.077,NA,9.7,25,NA,NA,NA
+delaware,new castle,538479,1,NA,12.933,50,0.08,NA,10.6,28,2.172,14.2,31.6
+delaware,sussex,197145,NA,NA,NA,NA,0.084,NA,9.9,27,NA,NA,NA
+district of columbia,district of columbia,601723,3,NA,17.595,59,0.086,85,11.1,29,3.372,10.5,21
+florida,alachua,247336,NA,NA,NA,NA,0.069,NA,7.8,16,NA,NA,NA
+florida,baker,27115,NA,NA,NA,NA,0.065,NA,NA,NA,NA,NA,NA
+florida,bay,168852,NA,NA,NA,NA,0.072,NA,IN,IN,NA,NA,NA
+florida,brevard,543376,NA,NA,NA,NA,0.064,51,IN,IN,0.175,3.3,7
+florida,broward,1748066,2,NA,7.118,49,0.062,32,7,14,0.389,5.9,38
+florida,citrus,141236,NA,NA,NA,NA,NA,NA,7.6,16,NA,NA,NA
+florida,collier,321520,NA,NA,NA,NA,0.059,NA,NA,NA,NA,NA,NA
+florida,columbia,67531,NA,NA,NA,NA,0.068,NA,NA,NA,NA,NA,NA
+florida,duval,864263,2,NA,9.324,44,0.068,62,9.4,20,0.948,5,22
+florida,escambia,297619,NA,NA,IN,IN,0.074,NA,9.1,18,1.544,12.9,45
+florida,hamilton,14799,NA,NA,NA,NA,NA,NA,NA,NA,0.499,3.8,21
+florida,highlands,98786,NA,NA,NA,NA,0.066,NA,NA,NA,NA,NA,NA
+florida,hillsborough,1229226,1,0.73,6.079,IN,0.072,62,8.1,15,2.852,28.7,104
+florida,holmes,19927,NA,NA,NA,NA,0.065,NA,NA,NA,NA,NA,NA
+florida,lake,297052,NA,NA,NA,NA,0.066,NA,NA,NA,NA,NA,NA
+florida,lee,618754,NA,NA,NA,NA,0.065,67,7,13,NA,NA,NA
+florida,leon,275487,NA,NA,NA,NA,0.065,NA,9.7,23,NA,NA,NA
+florida,manatee,322833,NA,NA,NA,NA,0.068,NA,IN,IN,NA,NA,NA
+florida,marion,331298,NA,NA,NA,NA,0.068,NA,IN,IN,NA,NA,NA
+florida,martin,146318,NA,NA,NA,NA,0.059,NA,NA,NA,NA,NA,NA
+florida,miami-dade,2496435,1,NA,9.651,47,0.069,44,7.8,13,0.002,0.1,1
+florida,nassau,73314,NA,NA,NA,NA,NA,NA,NA,NA,3.949,58.4,216
+florida,okaloosa,180822,NA,NA,NA,NA,0.069,NA,NA,NA,NA,NA,NA
+florida,orange,1145956,1,NA,5.627,40,0.071,35,7.5,14,0.157,2.2,7
+florida,osceola,268685,NA,NA,NA,NA,0.067,NA,NA,NA,NA,NA,NA
+florida,palm beach,1320134,NA,NA,5.378,46,0.066,35,6.4,12,0.831,3.5,8
+florida,pasco,464697,NA,NA,NA,NA,0.067,NA,NA,NA,NA,NA,NA
+florida,pinellas,916542,1,NA,5.68,38,0.067,41,8.1,16,0.682,6.3,34
+florida,polk,602095,NA,NA,NA,NA,0.068,51,7.7,15,NA,NA,NA
+florida,putnam,74364,NA,NA,NA,NA,NA,58,NA,NA,0.678,4.9,33
+florida,st. lucie,277789,NA,NA,NA,NA,0.061,NA,7.6,14,NA,NA,NA
+florida,santa rosa,151372,NA,NA,NA,NA,0.074,NA,IN,IN,NA,NA,NA
+florida,sarasota,379448,NA,NA,3.986,IN,0.07,59,7.1,14,NA,NA,NA
+florida,seminole,422718,NA,NA,NA,NA,0.067,46,7.6,14,NA,NA,NA
+florida,volusia,494593,NA,NA,NA,NA,0.066,45,7.5,17,NA,NA,NA
+florida,wakulla,30776,NA,NA,NA,NA,0.068,NA,NA,NA,NA,NA,NA
+georgia,bartow,100157,NA,0.02,NA,NA,NA,NA,NA,NA,NA,NA,NA
+georgia,bibb,155547,NA,NA,NA,NA,0.071,50,13.7,28,1.458,5.9,23
+georgia,chatham,265128,NA,NA,NA,NA,0.065,33,10.5,24,3.42,33.2,83
+georgia,chattooga,26015,NA,NA,NA,NA,0.067,37,NA,NA,NA,NA,NA
+georgia,clarke,116714,NA,NA,NA,NA,0.073,NA,11.3,23,NA,NA,NA
+georgia,clayton,259424,NA,NA,NA,NA,NA,NA,13.4,25,NA,NA,NA
+georgia,cobb,688078,NA,NA,NA,NA,0.079,NA,12.2,23,NA,NA,NA
+georgia,columbia,124053,NA,NA,NA,NA,0.068,NA,NA,NA,NA,NA,NA
+georgia,coweta,127317,NA,NA,NA,NA,0.065,NA,NA,NA,NA,NA,NA
+georgia,dawson,22330,NA,NA,NA,NA,0.073,NA,NA,NA,NA,NA,NA
+georgia,dekalb,691893,2,IN,13.657,58,0.075,51,12.3,24,IN,IN,IN
+georgia,dougherty,94565,NA,NA,NA,NA,NA,50,IN,IN,NA,NA,NA
+georgia,douglas,132403,NA,NA,NA,NA,0.074,NA,NA,NA,NA,NA,NA
+georgia,floyd,96317,NA,NA,NA,NA,NA,47,IN,IN,1.551,10.5,49
+georgia,fulton,920581,1,NA,NA,NA,0.08,48,14.5,24,1.908,10,33
+georgia,glynn,79626,NA,NA,NA,NA,0.066,37,IN,IN,1.101,2.4,7
+georgia,gwinnett,805321,NA,NA,NA,NA,0.072,NA,12.3,22,NA,NA,NA
+georgia,hall,179684,NA,NA,NA,NA,NA,NA,11.4,23,NA,NA,NA
+georgia,henry,203922,NA,NA,NA,NA,0.078,NA,NA,NA,NA,NA,NA
+georgia,houston,139900,NA,NA,NA,NA,NA,NA,12,26,NA,NA,NA
+georgia,lowndes,109233,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+georgia,murray,39628,NA,NA,NA,NA,0.073,NA,NA,NA,NA,NA,NA
+georgia,muscogee,189885,NA,0.07,NA,NA,0.068,38,15,30,1.193,3.4,13
+georgia,paulding,142324,1,NA,2.638,18,0.071,NA,11.2,21,NA,NA,NA
+georgia,richmond,200549,NA,NA,NA,NA,0.072,42,13.4,27,NA,NA,NA
+georgia,rockdale,85215,NA,NA,3.999,24,0.076,NA,NA,NA,NA,NA,NA
+georgia,sumter,32819,NA,NA,NA,NA,0.069,NA,NA,NA,NA,NA,NA
+georgia,walker,68756,NA,NA,NA,NA,NA,NA,8.9,20,NA,NA,NA
+georgia,washington,21187,NA,NA,NA,NA,NA,42,IN,IN,NA,NA,NA
+georgia,wilkinson,9563,NA,NA,NA,NA,NA,NA,13.7,23,NA,NA,NA
+hawaii,hawaii,185079,NA,NA,NA,NA,NA,NA,18.2,35,NA,NA,NA
+hawaii,honolulu,953207,1,0,3.411,24,0.047,70,4.7,12,1.272,4,18
+hawaii,maui,154834,NA,NA,NA,NA,NA,NA,4.8,14,NA,NA,NA
+idaho,ada,392365,2,NA,9.51,45,0.069,55,5,12,0.366,1.1,IN
+idaho,bannock,82839,NA,NA,NA,NA,NA,80,IN,IN,3.492,17.7,IN
+idaho,benewah,9285,NA,NA,NA,NA,NA,NA,9.2,27,NA,NA,NA
+idaho,boise,7028,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+idaho,bonner,40877,NA,NA,NA,NA,NA,56,IN,IN,NA,NA,NA
+idaho,bonneville,104234,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+idaho,boundary,10972,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+idaho,butte,2891,NA,NA,NA,NA,0.062,NA,NA,NA,NA,NA,NA
+idaho,canyon,188923,NA,NA,NA,NA,NA,66,5.9,15,NA,NA,NA
+idaho,caribou,6963,NA,NA,NA,NA,NA,NA,IN,IN,2.54,23.7,75.7
+idaho,cassia,22952,NA,NA,NA,NA,0.061,NA,NA,NA,NA,NA,NA
+idaho,franklin,12786,NA,NA,NA,NA,NA,NA,IN,70,NA,NA,NA
+idaho,gem,16719,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+idaho,idaho,16267,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+idaho,kootenai,138494,NA,NA,IN,IN,0.056,NA,IN,IN,NA,NA,NA
+idaho,latah,37244,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+idaho,lemhi,7936,NA,NA,NA,NA,NA,NA,10.3,35,NA,NA,NA
+idaho,nez perce,39265,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+idaho,power,7817,NA,NA,NA,NA,NA,IN,IN,IN,NA,NA,NA
+idaho,shoshone,12765,NA,NA,NA,NA,NA,106,12.2,36,NA,NA,NA
+idaho,twin falls,77230,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+idaho,valley,9862,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+illinois,adams,67103,NA,NA,NA,NA,0.067,NA,10.5,23,NA,NA,NA
+illinois,champaign,201081,NA,NA,NA,NA,0.055,NA,10.5,21,NA,NA,NA
+illinois,clark,16335,NA,NA,NA,NA,0.066,NA,NA,NA,NA,NA,NA
+illinois,cook,5194675,2,0.24,24.869,71,0.077,65,14,35,4.138,20.6,90
+illinois,dupage,916924,NA,NA,NA,NA,0.064,NA,11.7,28,NA,NA,NA
+illinois,effingham,34242,NA,NA,NA,NA,0.072,NA,NA,NA,NA,NA,NA
+illinois,hamilton,8457,NA,NA,NA,NA,0.075,NA,11.3,25,NA,NA,NA
+illinois,jackson,60218,NA,NA,NA,NA,NA,IN,NA,NA,NA,NA,NA
+illinois,jersey,22985,NA,NA,NA,NA,0.072,NA,11.2,21,NA,NA,NA
+illinois,kane,515269,NA,NA,NA,NA,0.069,NA,11.4,32,NA,NA,NA
+illinois,lake,703462,NA,NA,NA,NA,0.078,NA,9.7,22,NA,NA,NA
+illinois,lasalle,113924,NA,NA,NA,NA,NA,68,NA,29,0.727,4.2,14
+illinois,mchenry,308760,NA,NA,NA,NA,0.065,NA,10.2,29,NA,NA,NA
+illinois,mclean,169572,NA,NA,NA,NA,0.066,NA,10.6,25,NA,NA,NA
+illinois,macon,110768,NA,0.12,NA,NA,0.069,NA,12.2,22,2.07,15.3,49
+illinois,macoupin,47765,NA,NA,NA,NA,0.071,32,IN,IN,0.875,4.2,15
+illinois,madison,269282,NA,0.42,NA,NA,0.08,79,14.6,29,2.422,14,57
+illinois,peoria,186494,2,0.02,NA,NA,0.069,47,11.5,26,1.426,15.9,IN
+illinois,randolph,33476,NA,NA,NA,NA,0.065,NA,10.2,17,1.217,6.8,31
+illinois,rock island,147546,NA,NA,NA,NA,0.057,NA,IN,IN,NA,NA,NA
+illinois,st. clair,270056,2,0.03,11.547,43,0.072,62,13,24,1.594,5.9,31
+illinois,sangamon,197465,1,NA,NA,NA,0.069,NA,11.5,24,1,7,24
+illinois,tazewell,135394,NA,NA,NA,NA,NA,NA,NA,NA,3.894,61.3,228
+illinois,wabash,11947,NA,NA,NA,NA,NA,NA,NA,NA,3.043,16,66
+illinois,whiteside,58498,NA,0.02,NA,NA,NA,NA,NA,NA,NA,NA,NA
+illinois,will,677560,NA,NA,NA,NA,0.065,43,11.8,28,1.317,5.8,24
+illinois,winnebago,295266,1,0.06,NA,NA,0.063,NA,IN,IN,NA,NA,NA
+indiana,allen,355329,2,NA,NA,NA,0.068,NA,11.8,31,NA,NA,NA
+indiana,boone,56640,NA,NA,NA,NA,0.072,NA,NA,NA,NA,NA,NA
+indiana,carroll,20155,NA,NA,NA,NA,0.072,NA,NA,NA,NA,NA,NA
+indiana,clark,110232,NA,NA,NA,NA,0.077,40,14.7,29,NA,NA,NA
+indiana,daviess,31648,NA,NA,NA,NA,NA,NA,NA,NA,4.598,25.8,115
+indiana,delaware,117671,NA,0.26,NA,NA,0.067,NA,12.8,32,NA,NA,NA
+indiana,dubois,41889,NA,NA,NA,NA,NA,36,13.6,27,NA,NA,NA
+indiana,elkhart,197559,NA,NA,NA,NA,0.065,NA,11.9,32,NA,NA,NA
+indiana,floyd,74578,NA,NA,NA,NA,0.072,NA,13.1,28,3.636,20.6,122.5
+indiana,fountain,17240,NA,NA,NA,NA,NA,NA,NA,NA,2.273,8.5,26
+indiana,gibson,33503,NA,NA,NA,NA,NA,NA,12.2,26,3.817,20.7,74
+indiana,greene,33165,NA,NA,NA,NA,0.074,NA,NA,NA,NA,NA,NA
+indiana,hamilton,274569,NA,NA,NA,NA,0.071,NA,NA,NA,NA,NA,NA
+indiana,hancock,70002,NA,NA,NA,NA,0.071,NA,NA,NA,NA,NA,NA
+indiana,hendricks,145448,NA,NA,NA,NA,0.067,NA,NA,NA,NA,NA,NA
+indiana,henry,49462,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+indiana,howard,82752,NA,NA,NA,NA,NA,NA,12.5,30,NA,NA,NA
+indiana,huntington,37124,NA,NA,NA,NA,0.062,NA,NA,NA,NA,NA,NA
+indiana,jackson,42376,NA,NA,NA,NA,0.069,NA,NA,NA,NA,NA,NA
+indiana,jasper,33478,NA,NA,NA,NA,NA,NA,NA,NA,1.947,10,39
+indiana,johnson,139654,NA,NA,NA,NA,0.07,NA,NA,NA,NA,NA,NA
+indiana,knox,38440,NA,NA,NA,NA,NA,NA,12.3,28,NA,NA,NA
+indiana,lake,496005,2,0.13,14.671,52.8,0.069,69,13.3,34,2.463,23.5,57.2
+indiana,laporte,111467,NA,NA,NA,NA,0.07,NA,10.7,29,2.354,10.6,30
+indiana,madison,131636,NA,NA,NA,NA,0.065,NA,IN,IN,NA,NA,NA
+indiana,marion,903393,3,0.08,12.683,53.5,0.072,83,14,37,3.347,23.3,103.4
+indiana,monroe,137974,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+indiana,morgan,68894,NA,NA,NA,NA,0.063,NA,NA,NA,2.977,28.8,105
+indiana,perry,19338,NA,NA,NA,NA,0.072,NA,NA,NA,NA,NA,NA
+indiana,pike,12845,NA,NA,NA,NA,NA,NA,NA,NA,7.501,36.5,IN
+indiana,porter,164343,NA,0.02,NA,NA,0.067,66,11.6,29,3.728,16.7,IN
+indiana,posey,25910,NA,NA,NA,NA,0.069,NA,NA,NA,NA,NA,NA
+indiana,st. joseph,266931,NA,NA,11.124,IN,0.061,NA,11.3,31,NA,NA,NA
+indiana,shelby,44436,NA,NA,NA,NA,0.067,NA,NA,NA,NA,NA,NA
+indiana,spencer,20952,NA,NA,NA,NA,NA,NA,13,27,NA,NA,NA
+indiana,tippecanoe,172780,NA,NA,NA,NA,NA,NA,12.1,27,NA,NA,NA
+indiana,vanderburgh,179703,4,0.01,11.142,41.2,0.071,37,13.5,30,1.613,7.2,18.8
+indiana,vigo,107848,NA,NA,NA,NA,0.063,44,13,30,4.493,42.7,169
+indiana,warrick,59689,NA,NA,NA,NA,0.071,NA,NA,NA,1.907,8.1,18
+indiana,wayne,68917,NA,NA,NA,NA,NA,NA,NA,NA,2.817,21.8,108.6
+indiana,whitley,33292,NA,NA,NA,NA,NA,IN,IN,IN,NA,NA,NA
+iowa,black hawk,131090,NA,NA,NA,NA,NA,74,10.9,37,NA,NA,NA
+iowa,bremer,24276,NA,NA,NA,NA,0.063,NA,IN,IN,NA,NA,NA
+iowa,cerro gordo,44151,NA,NA,NA,NA,NA,81,IN,IN,NA,NA,NA
+iowa,clinton,49116,NA,NA,NA,NA,0.064,NA,12.7,35,1.243,9.4,IN
+iowa,delaware,17764,NA,NA,NA,NA,NA,51,IN,IN,NA,NA,NA
+iowa,emmet,10302,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+iowa,harrison,14928,NA,NA,NA,NA,0.067,NA,NA,NA,NA,NA,NA
+iowa,johnson,130882,NA,NA,NA,NA,NA,53,11.5,33,NA,NA,NA
+iowa,lee,35862,NA,NA,NA,NA,NA,NA,11.9,30,NA,NA,NA
+iowa,linn,211226,1,NA,NA,NA,0.064,68,11.1,36,0.984,8.6,28.9
+iowa,montgomery,10740,NA,NA,NA,NA,0.067,44,9.9,27,NA,NA,NA
+iowa,muscatine,42745,NA,NA,NA,NA,NA,81,13.9,41,IN,IN,IN
+iowa,palo alto,9421,NA,NA,NA,NA,0.067,94,8.7,21,NA,NA,NA
+iowa,polk,430640,1,NA,8.901,47,0.057,53,10.3,33,0.299,1.2,2.5
+iowa,pottawattamie,93158,NA,0.26,NA,NA,NA,72,12.2,32,NA,NA,NA
+iowa,scott,165224,1,NA,8.437,37.5,0.065,129,12.9,35,0.518,3.6,IN
+iowa,story,89542,NA,NA,NA,NA,0.061,NA,IN,IN,NA,NA,NA
+iowa,tama,17767,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+iowa,van buren,7570,NA,NA,NA,NA,0.068,47,9.8,30,0.189,1.6,5.1
+iowa,warren,46225,NA,NA,NA,NA,0.064,NA,NA,NA,NA,NA,NA
+iowa,woodbury,102172,NA,NA,NA,NA,NA,48,10.7,34,NA,NA,NA
+iowa,wright,13229,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+kansas,ford,33848,NA,NA,NA,NA,NA,48,NA,NA,NA,NA,NA
+kansas,johnson,544179,NA,NA,NA,NA,0.071,NA,IN,IN,NA,NA,NA
+kansas,leavenworth,76227,NA,NA,NA,NA,0.07,NA,NA,NA,NA,NA,NA
+kansas,linn,9656,NA,NA,1.822,12.1,0.066,NA,9.1,22,1.26,3.3,IN
+kansas,montgomery,35471,NA,NA,NA,NA,NA,NA,NA,NA,4.249,21.9,28
+kansas,neosho,16512,NA,NA,NA,NA,NA,49,NA,NA,NA,NA,NA
+kansas,saline,55606,NA,0.42,NA,NA,NA,NA,NA,NA,NA,NA,NA
+kansas,sedgwick,498365,3,NA,8.273,39,0.075,57,8.8,20,NA,NA,NA
+kansas,shawnee,177934,NA,NA,NA,NA,0.069,70,9,21,NA,NA,NA
+kansas,sherman,6010,NA,NA,NA,NA,NA,50,NA,NA,NA,NA,NA
+kansas,sumner,24132,NA,NA,3.656,26,0.075,NA,8.4,19,0.733,1.8,12
+kansas,trego,3001,NA,NA,NA,NA,0.071,NA,NA,NA,1.09,2,IN
+kansas,wyandotte,157505,2,NA,13.131,54,0.058,65,10.5,23,5.036,13.1,49
+kentucky,bell,28691,NA,NA,NA,NA,0.073,NA,12.9,28,NA,NA,NA
+kentucky,boone,118811,NA,NA,NA,NA,0.067,NA,NA,NA,NA,NA,NA
+kentucky,boyd,49542,NA,IN,8.465,37,0.072,90,11.2,26,2.328,10.2,34
+kentucky,bullitt,74319,NA,NA,NA,NA,0.074,NA,13.4,24,NA,NA,NA
+kentucky,campbell,90336,NA,NA,4.524,39,0.073,NA,11.8,26,4.026,16.6,99
+kentucky,carter,27720,NA,NA,NA,NA,0.071,27,9.9,20,NA,NA,NA
+kentucky,christian,73955,NA,NA,NA,NA,0.074,NA,11.2,22,NA,NA,NA
+kentucky,daviess,96656,NA,NA,7.06,38,0.072,NA,12.9,28,2.841,11.1,68
+kentucky,edmonson,12161,0,NA,NA,NA,0.075,NA,IN,IN,1.274,5.7,15.4
+kentucky,fayette,295803,NA,NA,9.463,56,0.071,35,12.2,23,2.214,7.8,40
+kentucky,franklin,49285,NA,NA,NA,NA,NA,NA,11.4,23,NA,NA,NA
+kentucky,greenup,36910,NA,NA,NA,NA,0.071,NA,NA,NA,2.498,10.9,41
+kentucky,hancock,8565,NA,NA,NA,NA,0.073,NA,NA,NA,NA,NA,NA
+kentucky,hardin,105543,NA,NA,NA,NA,0.071,NA,11.9,21,NA,NA,NA
+kentucky,henderson,46250,NA,NA,NA,NA,0.074,37,12.5,24,2.055,6.8,22
+kentucky,jefferson,741096,2,NA,11.953,IN,0.085,74,14.8,29,4.057,15.2,107
+kentucky,jessamine,48586,NA,NA,NA,NA,0.069,NA,NA,NA,2.049,11.3,48
+kentucky,kenton,159720,NA,NA,NA,NA,0.064,NA,IN,IN,NA,NA,NA
+kentucky,laurel,58849,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+kentucky,livingston,9519,NA,NA,NA,NA,0.067,NA,NA,NA,0.916,4.8,15
+kentucky,mccracken,65565,NA,NA,6.875,47,0.073,32,11.4,25,1.478,7.3,25
+kentucky,madison,82916,NA,0.05,NA,NA,NA,NA,10.7,21,NA,NA,NA
+kentucky,marshall,31448,NA,NA,NA,NA,NA,30,NA,NA,NA,NA,NA
+kentucky,ohio,23842,NA,NA,NA,NA,NA,IN,IN,IN,NA,NA,NA
+kentucky,oldham,60316,NA,NA,NA,NA,0.078,NA,NA,NA,NA,NA,NA
+kentucky,perry,28712,NA,NA,NA,NA,0.071,NA,IN,IN,NA,NA,NA
+kentucky,pike,65024,NA,NA,NA,NA,0.07,NA,10.4,24,NA,NA,NA
+kentucky,pulaski,63063,NA,NA,NA,NA,0.066,NA,IN,IN,NA,NA,NA
+kentucky,russell,17565,NA,IN,NA,NA,NA,NA,NA,NA,NA,NA,NA
+kentucky,simpson,17327,NA,NA,NA,NA,0.073,NA,NA,NA,NA,NA,NA
+kentucky,trigg,14339,NA,NA,NA,NA,0.07,NA,NA,NA,NA,NA,NA
+kentucky,warren,113792,NA,NA,NA,NA,0.068,NA,11.5,21,NA,NA,NA
+louisiana,ascension parish,107215,NA,NA,8.27,42,0.078,NA,NA,NA,NA,NA,NA
+louisiana,bossier parish,116979,NA,NA,NA,NA,0.079,54,NA,NA,IN,IN,IN
+louisiana,caddo parish,254969,NA,NA,NA,NA,0.077,IN,11,19,NA,NA,NA
+louisiana,calcasieu parish,192768,NA,NA,6.7,37,0.078,NA,9.6,22,3.361,14.3,34
+louisiana,concordia parish,20822,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+louisiana,east baton rouge parish,440171,2,NA,12.687,56,0.08,78,10.7,20,1.339,11.4,41.5
+louisiana,iberville parish,33387,NA,NA,7.095,36,0.074,NA,10.6,22,NA,NA,NA
+louisiana,jefferson parish,432552,NA,NA,7.759,47,0.081,NA,9.6,19,NA,NA,NA
+louisiana,lafayette parish,221578,NA,NA,NA,NA,0.074,72,9.7,23,NA,NA,NA
+louisiana,lafourche parish,96318,NA,NA,NA,NA,0.074,NA,NA,NA,NA,NA,NA
+louisiana,livingston parish,128026,NA,NA,2.906,20,0.076,NA,NA,NA,NA,NA,NA
+louisiana,orleans parish,343829,NA,NA,NA,NA,0.072,73,IN,IN,NA,NA,NA
+louisiana,ouachita parish,153720,NA,NA,NA,NA,0.07,NA,9.5,19,IN,IN,IN
+louisiana,plaquemines parish,23042,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+louisiana,pointe coupee parish,22802,NA,NA,NA,NA,0.075,NA,NA,NA,NA,NA,NA
+louisiana,rapides parish,131613,NA,NA,NA,NA,NA,NA,9.2,20,NA,NA,NA
+louisiana,st. bernard parish,35897,NA,NA,NA,NA,0.074,72,10.1,18,7.743,75.6,248
+louisiana,st. charles parish,52780,NA,NA,NA,NA,0.075,NA,IN,IN,NA,NA,NA
+louisiana,st. james parish,22102,NA,NA,NA,NA,0.069,NA,NA,NA,NA,NA,NA
+louisiana,st. john the baptist parish,45924,NA,NA,NA,NA,0.073,NA,NA,NA,NA,NA,NA
+louisiana,st. tammany parish,233740,NA,NA,NA,NA,0.076,NA,IN,IN,NA,NA,NA
+louisiana,tangipahoa parish,121097,NA,NA,NA,NA,NA,NA,9,17,NA,NA,NA
+louisiana,terrebonne parish,111860,NA,NA,NA,NA,NA,NA,8.8,17,NA,NA,NA
+louisiana,west baton rouge parish,23788,NA,NA,11.305,49,0.071,NA,11.2,21,5.071,19.8,92
+maine,androscoggin,107702,NA,NA,NA,NA,0.058,43,IN,IN,NA,NA,NA
+maine,aroostook,71870,0,NA,2.034,IN,0.051,79,7.3,23,0.221,2.2,6.9
+maine,cumberland,281674,1,NA,9.765,44,0.072,52,8,23,1.564,9.5,21
+maine,hancock,54418,0,NA,NA,NA,0.076,25,4.4,16,0.154,1.1,3.1
+maine,kennebec,122151,NA,NA,NA,NA,0.059,43,6.4,19,NA,NA,NA
+maine,knox,39736,NA,NA,NA,NA,0.07,NA,IN,IN,NA,NA,NA
+maine,oxford,57833,NA,NA,NA,NA,0.054,NA,8,30,NA,NA,NA
+maine,penobscot,153923,NA,NA,NA,NA,0.059,43,7,23,NA,NA,NA
+maine,piscataquis,17535,NA,NA,NA,NA,NA,NA,5.1,15,NA,NA,NA
+maine,sagadahoc,35293,NA,NA,NA,NA,0.061,NA,NA,NA,NA,NA,NA
+maine,washington,32856,NA,NA,NA,NA,0.061,NA,NA,NA,NA,NA,NA
+maine,york,197131,NA,NA,NA,NA,0.072,NA,IN,IN,NA,NA,NA
+maryland,anne arundel,537656,NA,NA,NA,NA,0.087,45,11,28,NA,NA,NA
+maryland,baltimore,805029,2,NA,13.155,54,0.084,NA,11.6,29,2.152,7.3,20
+maryland,calvert,88737,NA,NA,NA,NA,0.087,NA,NA,NA,NA,NA,NA
+maryland,carroll,167134,NA,NA,NA,NA,0.083,NA,NA,NA,NA,NA,NA
+maryland,cecil,101108,NA,NA,NA,NA,0.082,NA,IN,IN,NA,NA,NA
+maryland,charles,146551,NA,NA,NA,NA,0.082,NA,NA,NA,NA,NA,NA
+maryland,frederick,233385,NA,NA,NA,NA,0.083,NA,NA,NA,NA,NA,NA
+maryland,garrett,30097,0,NA,NA,NA,0.078,NA,IN,IN,2.158,9.7,23.6
+maryland,harford,244826,NA,NA,NA,NA,0.096,NA,9.5,22,NA,NA,NA
+maryland,kent,20197,NA,NA,NA,NA,0.074,NA,IN,IN,NA,NA,NA
+maryland,montgomery,971777,NA,NA,NA,NA,0.077,NA,11.1,28,NA,NA,NA
+maryland,prince george's,863420,1,NA,NA,NA,0.085,IN,12.1,27,0.987,6.8,10.2
+maryland,washington,147430,NA,NA,NA,NA,0.078,NA,IN,IN,NA,NA,NA
+maryland,worcester,51454,NA,NA,NA,NA,0.075,NA,NA,NA,NA,NA,NA
+maryland,baltimore city,620961,1,NA,17.549,61,0.074,46,12.7,30,NA,NA,NA
+massachusetts,barnstable,215888,NA,NA,NA,NA,0.078,NA,NA,NA,NA,NA,NA
+massachusetts,berkshire,131219,NA,NA,NA,NA,0.073,NA,8.9,25,NA,NA,NA
+massachusetts,bristol,548285,NA,NA,NA,NA,0.077,NA,7.7,24,3.081,33.1,84.3
+massachusetts,dukes,16535,NA,NA,NA,NA,0.08,NA,NA,NA,NA,NA,NA
+massachusetts,essex,743159,1,NA,7.303,42.4,0.072,NA,7.9,20,NA,NA,NA
+massachusetts,hampden,463490,2,NA,14.545,48,0.074,33,9.2,26,2.05,7.4,13
+massachusetts,hampshire,158080,NA,NA,2.673,26,0.076,28,IN,IN,0.844,5.7,5.8
+massachusetts,middlesex,1503085,1,NA,NA,NA,0.069,28,7,20,NA,NA,NA
+massachusetts,norfolk,670850,NA,NA,IN,IN,0.073,NA,IN,IN,NA,NA,NA
+massachusetts,plymouth,494919,NA,NA,NA,NA,NA,NA,7.8,23,NA,NA,NA
+massachusetts,suffolk,722023,2,0.01,19.098,53,0.07,41,10,25,2.933,9.4,25
+massachusetts,worcester,798552,1,NA,13.987,48.4,0.071,42,8.7,21,2.055,6.8,12
+michigan,allegan,111408,NA,NA,NA,NA,0.073,NA,8.5,25,NA,NA,NA
+michigan,alpena,29598,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+michigan,bay,107771,NA,NA,NA,NA,NA,NA,8.2,31,NA,NA,NA
+michigan,benzie,17525,NA,NA,NA,NA,0.072,NA,NA,NA,NA,NA,NA
+michigan,berrien,156813,NA,NA,NA,NA,0.072,NA,8.7,23,NA,NA,NA
+michigan,cass,52293,NA,NA,NA,NA,0.069,NA,NA,NA,NA,NA,NA
+michigan,chippewa,38520,NA,NA,NA,NA,0.053,NA,IN,43,NA,NA,NA
+michigan,clinton,75382,NA,NA,NA,NA,0.065,NA,NA,NA,NA,NA,NA
+michigan,dickinson,26168,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+michigan,emmet,32694,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+michigan,genesee,425790,NA,NA,NA,NA,0.07,NA,8.9,25,NA,NA,NA
+michigan,grand traverse,86986,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+michigan,huron,33118,NA,NA,NA,NA,0.069,NA,NA,NA,NA,NA,NA
+michigan,ingham,280895,NA,NA,IN,IN,0.065,NA,9,24,NA,NA,NA
+michigan,ionia,63905,NA,0.28,NA,NA,NA,NA,NA,NA,NA,NA,NA
+michigan,iron,11817,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+michigan,kalamazoo,250331,NA,NA,NA,NA,0.067,NA,9.3,22,NA,NA,NA
+michigan,kent,602622,1,0.01,NA,NA,0.069,37,9.6,24,0.956,4.5,17.8
+michigan,lenawee,99892,NA,NA,NA,NA,0.066,NA,8.9,22,NA,NA,NA
+michigan,macomb,840978,NA,NA,NA,NA,0.076,NA,8.9,26,NA,NA,NA
+michigan,manistee,24733,NA,NA,NA,NA,0.068,NA,6.6,22,NA,NA,NA
+michigan,mason,28705,NA,NA,NA,NA,0.07,NA,NA,NA,NA,NA,NA
+michigan,missaukee,14849,NA,NA,IN,IN,0.065,NA,5.9,18,NA,NA,NA
+michigan,monroe,152021,NA,NA,NA,NA,NA,NA,9.4,26,NA,NA,NA
+michigan,muskegon,172188,NA,NA,NA,NA,0.076,NA,8.3,23,NA,NA,NA
+michigan,oakland,1202362,NA,NA,NA,NA,0.073,NA,9.1,27,NA,NA,NA
+michigan,ottawa,263801,NA,NA,NA,NA,0.072,NA,9.1,23,NA,NA,NA
+michigan,saginaw,200169,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+michigan,st. clair,163040,NA,NA,NA,NA,0.076,NA,8.9,26,NA,NA,NA
+michigan,schoolcraft,8485,NA,NA,NA,NA,0.075,NA,NA,NA,NA,NA,NA
+michigan,washtenaw,344791,NA,NA,NA,NA,0.066,NA,9.2,23,NA,NA,NA
+michigan,wayne,1820584,1,0.01,11.96,54,0.078,73,11.3,30,3.385,48.8,107
+minnesota,anoka,330844,NA,0.03,9.368,51,0.067,NA,8.3,25,NA,NA,NA
+minnesota,becker,32504,NA,NA,NA,NA,0.062,NA,NA,NA,NA,NA,NA
+minnesota,carlton,35386,NA,0,1.802,14,0.057,NA,NA,NA,NA,NA,NA
+minnesota,cass,28567,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+minnesota,crow wing,62500,NA,NA,NA,NA,0.06,NA,IN,IN,NA,NA,NA
+minnesota,dakota,398552,2,0.27,9.673,44,NA,NA,IN,IN,0.787,5.3,19
+minnesota,douglas,36009,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+minnesota,freeborn,31255,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+minnesota,goodhue,46183,NA,NA,NA,NA,0.06,NA,NA,NA,NA,NA,NA
+minnesota,hennepin,1152425,2,0.02,NA,NA,NA,52,9.1,28,0.538,10.2,29
+minnesota,itasca,45058,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+minnesota,kandiyohi,42239,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+minnesota,lake,10866,NA,IN,NA,NA,0.061,NA,IN,IN,NA,NA,NA
+minnesota,lyon,25857,NA,NA,NA,NA,0.065,NA,NA,NA,NA,NA,NA
+minnesota,mcleod,36651,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+minnesota,mille lacs,26097,NA,NA,NA,NA,0.059,NA,IN,IN,NA,NA,NA
+minnesota,nicollet,32727,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+minnesota,olmsted,144248,NA,NA,NA,NA,0.061,NA,9.3,29,NA,NA,NA
+minnesota,otter tail,57303,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+minnesota,ramsey,508640,2,0,NA,NA,NA,74,10,36,NA,NA,NA
+minnesota,st. louis,200226,2,0,NA,NA,0.067,47,6.4,17,0.151,2.1,9
+minnesota,scott,129928,NA,NA,NA,NA,0.06,NA,9,29,NA,NA,NA
+minnesota,stearns,150642,NA,0.01,NA,NA,0.058,NA,8.2,28,NA,NA,NA
+minnesota,washington,238136,NA,0,NA,NA,0.062,NA,IN,IN,0.286,3.5,17
+minnesota,wright,124700,NA,NA,NA,NA,0.063,NA,IN,IN,NA,NA,NA
+mississippi,adams,32297,NA,NA,NA,NA,0.067,NA,10.4,20,NA,NA,NA
+mississippi,bolivar,34145,NA,NA,NA,NA,0.073,NA,10.6,22,NA,NA,NA
+mississippi,desoto,161252,NA,NA,NA,NA,0.076,NA,10.2,19,NA,NA,NA
+mississippi,forrest,74934,NA,NA,NA,NA,NA,NA,12,23,NA,NA,NA
+mississippi,grenada,21906,NA,NA,NA,NA,NA,NA,9.8,19,NA,NA,NA
+mississippi,hancock,43929,NA,NA,NA,NA,0.068,NA,10.2,20,NA,NA,NA
+mississippi,harrison,187105,NA,NA,NA,NA,0.073,NA,9.6,16,NA,NA,NA
+mississippi,hinds,245285,IN,NA,NA,NA,0.067,IN,11.4,22,IN,IN,IN
+mississippi,jackson,139668,NA,NA,5.511,35,0.073,NA,9.5,19,1.14,6.8,38
+mississippi,jones,67761,NA,NA,NA,NA,NA,NA,12.3,25,NA,NA,NA
+mississippi,lauderdale,80261,NA,NA,NA,NA,0.062,NA,11.2,22,NA,NA,NA
+mississippi,lee,82910,NA,NA,NA,NA,0.068,NA,12,22,NA,NA,NA
+mississippi,lowndes,59779,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+mississippi,pearl river,55834,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+mississippi,rankin,141617,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+mississippi,scott,28264,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+mississippi,warren,48773,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+missouri,andrew,17291,NA,NA,NA,NA,0.072,NA,NA,NA,NA,NA,NA
+missouri,boone,162642,NA,NA,NA,NA,0.069,NA,IN,IN,NA,NA,NA
+missouri,buchanan,89201,NA,NA,NA,NA,NA,92,11.9,26,NA,NA,NA
+missouri,callaway,44332,NA,NA,NA,NA,0.068,NA,NA,NA,NA,NA,NA
+missouri,cass,99478,NA,NA,NA,NA,0.067,NA,10.3,23,NA,NA,NA
+missouri,cedar,13982,NA,NA,NA,NA,0.068,NA,10.9,24,NA,NA,NA
+missouri,clay,221939,NA,NA,IN,IN,0.076,NA,9.6,23,NA,NA,NA
+missouri,clinton,20743,NA,NA,NA,NA,0.076,NA,NA,NA,NA,NA,NA
+missouri,greene,275174,1,NA,IN,IN,0.069,32,9.9,22,3.218,39.2,98
+missouri,howell,40400,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+missouri,iron,10630,NA,0.72,NA,NA,NA,NA,NA,NA,NA,NA,NA
+missouri,jackson,674158,NA,NA,14.93,52,NA,52,11,31,5.499,46.5,IN
+missouri,jasper,117404,NA,0.02,NA,NA,0.072,107,IN,IN,NA,NA,NA
+missouri,jefferson,218733,NA,1.37,NA,NA,0.077,NA,10.5,24,10.351,58.1,199
+missouri,lincoln,52566,NA,NA,NA,NA,0.079,NA,NA,NA,NA,NA,NA
+missouri,maries,9176,NA,NA,NA,NA,NA,NA,NA,IN,NA,NA,NA
+missouri,mercer,3785,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+missouri,monroe,8840,NA,NA,NA,NA,0.07,IN,IN,IN,IN,IN,IN
+missouri,perry,18971,NA,NA,NA,NA,0.077,NA,NA,NA,NA,NA,NA
+missouri,reynolds,6696,NA,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+missouri,st. charles,360485,NA,NA,IN,IN,0.084,NA,IN,IN,NA,NA,NA
+missouri,ste. genevieve,18145,NA,NA,IN,IN,0.072,NA,IN,IN,NA,NA,NA
+missouri,st. francois,65359,NA,0.05,NA,NA,NA,NA,NA,NA,NA,NA,NA
+missouri,st. louis,998954,1,0.01,IN,IN,0.076,48,11.2,27,IN,IN,IN
+missouri,taney,51675,NA,NA,NA,NA,0.067,NA,NA,NA,NA,NA,NA
+missouri,st. louis city,319294,2,NA,12.831,IN,0.071,131,13.8,27,3.263,12.3,49
+montana,cascade,81327,2,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+montana,flathead,90928,IN,NA,NA,NA,0.055,94,9,29,NA,NA,NA
+montana,gallatin,89513,2,NA,1.879,IN,NA,NA,9.2,35,NA,NA,NA
+montana,glacier,13399,NA,NA,NA,NA,0.058,NA,NA,NA,NA,NA,NA
+montana,lake,28746,NA,NA,NA,NA,NA,76,IN,IN,NA,NA,NA
+montana,lewis and clark,63395,NA,NA,NA,NA,NA,NA,10.6,54,NA,NA,NA
+montana,lincoln,19687,NA,NA,NA,NA,NA,89,11.4,32,NA,NA,NA
+montana,missoula,109299,2,NA,NA,NA,0.054,55,9.6,27,NA,NA,NA
+montana,powder river,1743,NA,NA,IN,IN,0.056,78,5.2,14,NA,NA,NA
+montana,ravalli,40212,NA,NA,NA,NA,NA,NA,8.9,35,NA,NA,NA
+montana,richland,9746,NA,NA,IN,IN,0.057,85,IN,IN,IN,IN,IN
+montana,rosebud,9233,NA,NA,IN,IN,0.059,86,IN,IN,IN,IN,IN
+montana,sanders,11413,NA,NA,NA,NA,NA,20,5.7,13,NA,NA,NA
+montana,silver bow,34200,NA,NA,NA,NA,NA,82,IN,43,NA,NA,NA
+montana,yellowstone,147972,2,NA,NA,NA,NA,NA,IN,IN,3.876,23.4,91
+nebraska,cass,25241,NA,NA,NA,NA,NA,249,IN,IN,NA,NA,NA
+nebraska,cedar,8852,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+nebraska,cherry,5713,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+nebraska,dawson,24326,NA,NA,NA,NA,NA,90,NA,NA,NA,NA,NA
+nebraska,deuel,1941,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+nebraska,dodge,36691,NA,IN,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nebraska,douglas,517110,2,NA,NA,NA,0.064,145,10.3,28,2.124,25.9,58
+nebraska,hall,58607,NA,NA,NA,NA,NA,NA,7.3,21,NA,NA,NA
+nebraska,lancaster,285407,2,NA,NA,NA,0.05,NA,9,26,NA,NA,NA
+nebraska,lincoln,36288,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+nebraska,nemaha,7248,NA,IN,NA,NA,NA,NA,NA,NA,NA,NA,NA
+nebraska,sarpy,158840,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+nebraska,scotts bluff,36970,NA,NA,NA,NA,0.059,NA,5.3,14,NA,NA,NA
+nebraska,washington,20234,NA,NA,NA,NA,NA,NA,9.7,26,NA,NA,NA
+nevada,churchill,24877,NA,NA,NA,NA,0.062,NA,NA,NA,NA,NA,NA
+nevada,clark,1951269,3,NA,13.308,55.9,0.079,61,7.4,22,NA,NA,NA
+nevada,douglas,46997,3,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+nevada,elko,48818,NA,NA,NA,NA,NA,61,NA,NA,NA,NA,NA
+nevada,lyon,51980,NA,NA,NA,NA,0.063,NA,NA,NA,NA,NA,NA
+nevada,mineral,4772,NA,NA,NA,NA,NA,80,NA,NA,NA,NA,NA
+nevada,nye,43946,NA,NA,NA,NA,NA,95,NA,NA,NA,NA,NA
+nevada,washoe,421407,3,NA,16.276,55,0.07,77,6,16,IN,IN,IN
+nevada,white pine,10030,NA,NA,NA,NA,0.069,NA,NA,NA,NA,NA,NA
+nevada,carson city,55274,NA,NA,NA,NA,0.064,NA,NA,NA,NA,NA,NA
+new hampshire,belknap,60088,NA,NA,NA,NA,0.064,NA,5.4,18,NA,NA,NA
+new hampshire,cheshire,77117,NA,NA,NA,NA,0.064,NA,8.3,22,NA,NA,NA
+new hampshire,coos,33055,NA,NA,NA,NA,0.073,NA,IN,IN,NA,NA,NA
+new hampshire,grafton,89118,NA,NA,NA,NA,0.061,NA,6.6,20,NA,NA,NA
+new hampshire,hillsborough,400721,2,NA,7.99,42.2,0.077,29,8,25,1.453,12,57.7
+new hampshire,merrimack,146445,NA,NA,NA,NA,0.068,NA,8.6,23,10.487,109,219.7
+new hampshire,rockingham,295223,NA,NA,NA,NA,0.066,33,IN,IN,2.268,10.5,44.9
+new hampshire,sullivan,43742,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+new jersey,atlantic,274549,NA,NA,NA,NA,0.08,IN,9.2,21,0.925,6.1,9.8
+new jersey,bergen,905116,2,NA,15.824,64,0.076,NA,8.8,25,0.372,4.6,9
+new jersey,camden,513657,0,NA,NA,NA,0.088,85,9.5,23,0.615,5.7,10
+new jersey,cumberland,156898,NA,NA,NA,NA,0.077,NA,NA,NA,1.077,5.5,10
+new jersey,essex,783969,2,NA,18.343,64,0.085,NA,9.2,24,1.895,9.6,18
+new jersey,gloucester,288288,NA,NA,NA,NA,0.083,NA,IN,IN,1.03,8.7,15
+new jersey,hudson,634266,2,NA,18.268,68,0.082,65,10.6,27,2.381,10.3,26
+new jersey,hunterdon,128349,NA,NA,NA,NA,0.081,NA,NA,NA,NA,NA,NA
+new jersey,mercer,366513,NA,NA,8.065,40,0.086,53,9.5,27,NA,NA,NA
+new jersey,middlesex,809858,2,NA,10.125,45,0.086,NA,7.4,19,0.953,7,17
+new jersey,monmouth,630380,2,NA,NA,NA,0.086,NA,NA,NA,NA,NA,NA
+new jersey,morris,492276,1,NA,4.215,36,0.078,NA,8.5,23,1.046,10.9,26
+new jersey,ocean,576567,NA,NA,NA,NA,0.087,NA,8.7,24,NA,NA,NA
+new jersey,passaic,501226,NA,NA,NA,NA,0.077,NA,IN,IN,NA,NA,NA
+new jersey,union,536499,2,NA,22.192,71,NA,NA,10.6,28,1.414,8.8,30
+new jersey,warren,108692,NA,NA,NA,NA,NA,NA,9.4,38,IN,IN,IN
+new mexico,bernalillo,662564,3,NA,12.068,53,0.069,122,5.3,18,NA,NA,NA
+new mexico,chaves,65645,NA,NA,NA,NA,NA,33,IN,IN,NA,NA,NA
+new mexico,doña ana,209233,NA,NA,8.625,51,0.07,589,10.7,40,NA,NA,NA
+new mexico,eddy,53829,NA,NA,2.393,IN,0.07,NA,NA,NA,NA,NA,NA
+new mexico,grant,29514,NA,NA,NA,NA,0.07,26,4.5,11,0.053,1,1
+new mexico,lea,64727,NA,NA,5.621,41,0.053,50,IN,IN,NA,NA,NA
+new mexico,luna,25095,NA,NA,4.565,28,0.058,519,NA,NA,NA,NA,NA
+new mexico,mckinley,71492,NA,NA,NA,NA,NA,28,NA,NA,NA,NA,NA
+new mexico,sandoval,131561,NA,NA,NA,NA,0.063,83,IN,IN,NA,NA,NA
+new mexico,san juan,130044,NA,NA,12.39,40,0.069,49,IN,IN,0.665,2.3,14
+new mexico,santa fe,144170,NA,NA,NA,NA,0.064,27,4,8,NA,NA,NA
+new mexico,taos,32937,NA,NA,NA,NA,NA,39,NA,NA,NA,NA,NA
+new mexico,valencia,76569,NA,NA,NA,NA,0.063,NA,NA,NA,NA,NA,NA
+new york,albany,304204,1,NA,NA,NA,0.073,NA,7.9,24,2.326,7.4,14
+new york,bronx,1385108,2,NA,20.097,70,0.073,NA,11.4,27,4.829,23.6,50.2
+new york,broome,200600,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+new york,chautauqua,134905,NA,NA,NA,NA,0.08,NA,7.5,24,1.544,8.3,30
+new york,chemung,88830,NA,NA,NA,NA,0.067,NA,NA,NA,2.084,6,11
+new york,dutchess,297488,NA,NA,NA,NA,0.076,NA,IN,IN,NA,NA,NA
+new york,erie,919040,1,NA,13,59,0.072,NA,10.2,30,1.831,8.4,30.6
+new york,essex,39370,NA,NA,NA,NA,0.073,NA,4.3,16,0.716,2.4,4.7
+new york,franklin,51599,NA,NA,2.099,19,0.047,NA,NA,NA,1.043,13.5,14
+new york,hamilton,4836,NA,NA,NA,NA,0.068,NA,NA,NA,0.338,2.7,4.1
+new york,herkimer,64519,NA,NA,NA,NA,0.065,NA,NA,NA,0.54,2.5,4.2
+new york,jefferson,116229,NA,NA,NA,NA,0.077,NA,NA,NA,NA,NA,NA
+new york,kings,2504700,NA,NA,NA,NA,NA,NA,9.9,25,NA,NA,NA
+new york,madison,73442,NA,NA,NA,NA,0.071,NA,NA,NA,1.093,5.3,7
+new york,monroe,744344,1,NA,NA,NA,0.072,NA,8.3,23,2.186,8.8,25
+new york,nassau,1339532,NA,NA,14.569,57,NA,NA,8.7,20,2.093,10.3,18
+new york,new york,1585873,2,NA,NA,NA,0.074,NA,11.5,27,NA,NA,NA
+new york,niagara,216469,1,NA,NA,NA,0.071,NA,8.3,25,1.535,6.7,16.3
+new york,oneida,234878,NA,NA,NA,NA,0.063,NA,IN,IN,NA,NA,NA
+new york,onondaga,467026,1,NA,NA,NA,0.073,NA,7.6,23,0.92,3.6,10
+new york,orange,372813,NA,0.08,NA,NA,0.075,NA,8.1,27,NA,NA,NA
+new york,oswego,122109,NA,NA,NA,NA,0.071,NA,NA,NA,NA,NA,NA
+new york,putnam,99710,NA,NA,NA,NA,0.077,NA,NA,NA,0.796,3.8,10
+new york,queens,2230722,2,NA,19.275,69,0.076,NA,9.4,26,2.831,15.2,25.4
+new york,rensselaer,159429,NA,NA,NA,NA,0.073,NA,NA,NA,1.123,5.3,7.5
+new york,richmond,468730,NA,NA,NA,NA,0.085,NA,9.7,26,NA,NA,NA
+new york,rockland,311687,NA,NA,NA,NA,0.076,NA,NA,NA,NA,NA,NA
+new york,st. lawrence,111944,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+new york,saratoga,219607,NA,NA,NA,NA,0.071,NA,NA,NA,NA,NA,NA
+new york,schenectady,154727,1,NA,NA,NA,0.07,NA,IN,IN,1.92,6.2,16
+new york,steuben,98990,0,NA,1.334,13.7,0.068,NA,IN,IN,0.634,6.1,13.7
+new york,suffolk,1493350,1,NA,8.783,IN,0.085,NA,8.4,26,3.73,11,IN
+new york,ulster,182493,NA,NA,NA,NA,0.07,NA,NA,NA,0.502,3.3,6.2
+new york,wayne,93772,NA,NA,NA,NA,0.071,NA,NA,NA,NA,NA,NA
+new york,westchester,949113,NA,NA,NA,NA,0.075,NA,8.8,27,NA,NA,NA
+north carolina,alamance,151131,NA,NA,NA,NA,NA,NA,11.1,20,NA,NA,NA
+north carolina,alexander,37198,NA,NA,NA,NA,0.071,NA,NA,NA,NA,NA,NA
+north carolina,avery,17797,NA,NA,NA,NA,0.071,NA,NA,NA,NA,NA,NA
+north carolina,beaufort,47759,NA,NA,NA,NA,NA,NA,NA,NA,0.71,6.2,28
+north carolina,buncombe,238318,NA,NA,NA,NA,0.071,NA,10.2,20,NA,NA,NA
+north carolina,cabarrus,178011,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+north carolina,caldwell,83029,NA,NA,NA,NA,0.071,NA,NA,NA,NA,NA,NA
+north carolina,caswell,23719,NA,NA,NA,NA,0.073,NA,10.1,18,NA,NA,NA
+north carolina,catawba,154358,NA,NA,NA,NA,NA,33,11.2,23,NA,NA,NA
+north carolina,chatham,63505,NA,NA,NA,NA,0.07,NA,8.9,19,NA,NA,NA
+north carolina,cumberland,319431,NA,NA,NA,NA,0.072,37,11.4,25,NA,NA,NA
+north carolina,davidson,162878,NA,NA,NA,NA,NA,NA,12.1,24,NA,NA,NA
+north carolina,davie,41240,NA,NA,NA,NA,0.072,NA,NA,NA,NA,NA,NA
+north carolina,duplin,58505,NA,NA,NA,NA,NA,28,9.3,19,NA,NA,NA
+north carolina,durham,267587,NA,NA,NA,NA,0.074,NA,10.2,21,NA,NA,NA
+north carolina,edgecombe,56552,NA,NA,NA,NA,0.072,NA,9.7,21,NA,NA,NA
+north carolina,forsyth,350670,2,NA,9.395,49,0.081,47,10.8,24,0.331,4.1,15
+north carolina,franklin,60619,NA,NA,NA,NA,0.071,NA,NA,NA,NA,NA,NA
+north carolina,gaston,206086,NA,NA,NA,NA,NA,NA,10.8,22,NA,NA,NA
+north carolina,graham,8861,NA,NA,NA,NA,0.075,NA,NA,NA,NA,NA,NA
+north carolina,granville,59916,NA,NA,NA,NA,0.074,NA,NA,NA,NA,NA,NA
+north carolina,guilford,488406,NA,NA,NA,NA,0.076,29,10.5,21,NA,NA,NA
+north carolina,haywood,59036,NA,NA,NA,NA,0.075,NA,10.6,24,NA,NA,NA
+north carolina,jackson,40271,NA,NA,NA,NA,0.069,NA,10.2,19,NA,NA,NA
+north carolina,johnston,168878,NA,NA,NA,NA,0.074,NA,9.8,20,NA,NA,NA
+north carolina,lenoir,59495,NA,NA,NA,NA,0.069,NA,9.5,20,NA,NA,NA
+north carolina,lincoln,78265,NA,NA,NA,NA,0.072,NA,NA,NA,NA,NA,NA
+north carolina,mcdowell,44996,NA,NA,NA,NA,NA,NA,10.3,19,NA,NA,NA
+north carolina,martin,24505,NA,NA,NA,NA,0.07,NA,9,22,0.449,3.1,6
+north carolina,mecklenburg,919628,2,NA,11.738,50,0.082,48,12.1,25,0.926,5.7,19.8
+north carolina,mitchell,15579,NA,NA,NA,NA,NA,NA,9.7,18,NA,NA,NA
+north carolina,montgomery,27798,NA,NA,NA,NA,NA,NA,9.9,22,NA,NA,NA
+north carolina,nash,95840,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+north carolina,new hanover,202667,NA,NA,NA,NA,0.062,NA,8,20,4.255,27.7,114
+north carolina,onslow,177772,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+north carolina,orange,133801,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+north carolina,pasquotank,40661,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+north carolina,person,39464,NA,NA,NA,NA,0.074,NA,NA,NA,NA,NA,NA
+north carolina,pitt,168148,NA,NA,NA,NA,0.069,NA,9.2,22,NA,NA,NA
+north carolina,robeson,134168,NA,NA,NA,NA,NA,NA,10.6,25,NA,NA,NA
+north carolina,rockingham,93643,NA,NA,NA,NA,0.074,NA,NA,NA,NA,NA,NA
+north carolina,rowan,138428,1,NA,NA,NA,0.078,NA,11,22,NA,NA,NA
+north carolina,swain,13981,NA,NA,NA,NA,0.066,NA,9.9,21,IN,IN,IN
+north carolina,union,201292,NA,NA,NA,NA,0.071,NA,NA,NA,NA,NA,NA
+north carolina,wake,900993,2,NA,NA,NA,0.073,43,10.2,21,1.017,5.7,12.4
+north carolina,watauga,51079,NA,NA,NA,NA,NA,NA,8.8,16,NA,NA,NA
+north carolina,wayne,122623,NA,NA,NA,NA,NA,NA,10.6,21,NA,NA,NA
+north carolina,yancey,17818,NA,NA,NA,NA,0.074,NA,NA,NA,NA,NA,NA
+north dakota,billings,783,NA,NA,NA,NA,0.061,NA,4.7,12,0.151,1.5,6
+north dakota,burke,1968,NA,NA,1.856,21,0.063,46,IN,IN,1.232,15.9,45.2
+north dakota,burleigh,81308,NA,NA,5.707,38,0.061,44,7.7,18,1.175,9.3,41
+north dakota,cass,149778,1,NA,5.435,44,0.063,96,8.5,27,0.293,2.5,6.1
+north dakota,dunn,3536,NA,NA,IN,IN,0.058,32,NA,NA,IN,IN,IN
+north dakota,grand forks,66861,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+north dakota,mckenzie,6360,NA,NA,1.149,10,0.062,29,IN,IN,0.528,3.5,21
+north dakota,mercer,8424,NA,NA,2.926,26,0.061,43,6.4,15,1.481,14.3,54
+north dakota,oliver,1846,NA,NA,2.201,19,0.061,NA,NA,NA,1.479,10.4,59
+north dakota,stark,24199,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+north dakota,steele,1975,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+north dakota,ward,61675,NA,NA,IN,IN,NA,NA,NA,NA,IN,IN,IN
+north dakota,williams,22398,NA,NA,NA,NA,NA,NA,NA,NA,2.219,25.9,77
+ohio,adams,28550,NA,NA,NA,NA,NA,NA,NA,NA,2.353,10.7,43
+ohio,allen,106331,NA,NA,NA,NA,0.072,42,IN,IN,1.877,7.1,23
+ohio,ashtabula,101497,NA,NA,NA,NA,0.083,NA,NA,NA,1.604,8.4,20
+ohio,athens,64757,NA,NA,4.036,25.7,0.07,NA,IN,IN,4.969,17,70.5
+ohio,belmont,70400,NA,NA,NA,NA,NA,NA,NA,NA,2.753,15.7,62
+ohio,butler,368130,NA,0.01,NA,NA,0.08,44,13.6,32,IN,IN,IN
+ohio,clark,138333,NA,NA,NA,NA,0.075,NA,13.1,30,1.393,12.3,28
+ohio,clermont,197363,NA,NA,NA,NA,0.075,NA,12,28,NA,NA,NA
+ohio,clinton,42040,NA,NA,NA,NA,0.076,NA,NA,NA,NA,NA,NA
+ohio,columbiana,107841,NA,0.06,NA,NA,NA,44,NA,NA,2.674,21.5,47
+ohio,cuyahoga,1280122,4,0.53,15.822,58,0.075,72,14,33,5.823,36.4,76
+ohio,delaware,174214,NA,NA,NA,NA,0.074,NA,NA,NA,NA,NA,NA
+ohio,franklin,1163414,2,0.01,NA,NA,0.077,126,13.1,34,NA,NA,NA
+ohio,fulton,42698,NA,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ohio,geauga,93389,NA,NA,NA,NA,0.081,NA,NA,NA,NA,NA,NA
+ohio,greene,161573,NA,NA,NA,NA,0.07,31,IN,IN,NA,NA,NA
+ohio,hamilton,802374,1,NA,14.645,54,0.08,59,14.9,35,2.664,14.2,IN
+ohio,hancock,74782,NA,NA,NA,NA,NA,42,NA,NA,NA,NA,NA
+ohio,jefferson,69709,NA,NA,NA,NA,0.071,63,12.7,30,4.41,26.5,127
+ohio,knox,60921,NA,NA,NA,NA,0.073,NA,NA,NA,NA,NA,NA
+ohio,lake,230041,1,NA,NA,NA,0.08,39,10.4,27,7.611,48.7,139
+ohio,lawrence,62450,NA,NA,NA,NA,0.074,40,12.1,25,IN,8,IN
+ohio,licking,166492,NA,NA,NA,NA,0.074,NA,NA,NA,NA,NA,NA
+ohio,logan,45858,NA,0.01,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ohio,lorain,301356,NA,NA,NA,NA,0.073,35,10.4,24,NA,NA,NA
+ohio,lucas,441815,NA,NA,NA,NA,0.072,87,11.4,30,NA,NA,NA
+ohio,madison,43435,NA,NA,NA,NA,0.073,NA,NA,NA,NA,NA,NA
+ohio,mahoning,238823,NA,NA,NA,NA,0.071,49,12.6,33,2.439,13.1,48
+ohio,marion,66501,NA,IN,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ohio,medina,172332,1,NA,IN,IN,0.071,NA,10.8,29,IN,IN,IN
+ohio,meigs,23770,NA,NA,NA,NA,NA,NA,NA,NA,3.212,16.9,94
+ohio,miami,102506,NA,NA,NA,NA,0.07,NA,NA,NA,NA,NA,NA
+ohio,montgomery,535153,2,NA,NA,NA,0.077,45,14,30,NA,NA,NA
+ohio,morgan,15054,NA,NA,NA,NA,NA,NA,NA,NA,3.915,40.2,167
+ohio,portage,161419,NA,NA,NA,NA,0.071,NA,11.2,32,NA,NA,NA
+ohio,preble,42270,NA,NA,NA,NA,0.071,NA,12,30,NA,NA,NA
+ohio,scioto,79499,NA,NA,NA,NA,NA,50,11.8,24,2.366,12.8,51.8
+ohio,stark,375586,2,0.02,NA,NA,0.08,NA,14.4,33,NA,NA,NA
+ohio,summit,541781,2,NA,NA,NA,0.076,NA,13.2,32,2.493,22.7,38
+ohio,trumbull,210312,NA,IN,NA,NA,0.076,44,11.9,31,NA,NA,NA
+ohio,tuscarawas,92582,NA,NA,NA,NA,NA,NA,NA,NA,3.967,18,58
+ohio,warren,212693,NA,NA,NA,NA,0.076,NA,11.9,27,NA,NA,NA
+ohio,washington,61778,NA,0.01,NA,NA,0.076,NA,NA,NA,NA,NA,NA
+ohio,wood,125488,NA,NA,NA,NA,0.07,NA,NA,NA,NA,NA,NA
+oklahoma,adair,22683,0,NA,3.133,IN,0.07,44,14.2,28,IN,IN,IN
+oklahoma,caddo,29600,NA,NA,NA,NA,0.069,39,8.9,23,NA,NA,NA
+oklahoma,canadian,115541,NA,NA,NA,NA,0.072,NA,IN,IN,NA,NA,NA
+oklahoma,carter,47557,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+oklahoma,cherokee,46987,NA,NA,NA,NA,0.071,NA,IN,IN,NA,NA,NA
+oklahoma,cleveland,255755,NA,NA,NA,NA,0.07,NA,NA,NA,NA,NA,NA
+oklahoma,comanche,124098,NA,NA,NA,NA,0.067,NA,IN,IN,NA,NA,NA
+oklahoma,creek,69967,NA,NA,NA,NA,0.069,NA,NA,NA,NA,NA,NA
+oklahoma,custer,27469,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+oklahoma,dewey,4810,NA,NA,NA,NA,0.067,NA,NA,NA,NA,NA,NA
+oklahoma,garfield,60580,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+oklahoma,jefferson,6472,NA,NA,NA,NA,0.067,NA,NA,NA,NA,NA,NA
+oklahoma,kay,46562,NA,NA,NA,NA,0.059,NA,IN,IN,3.26,12.4,38
+oklahoma,lincoln,34273,NA,NA,NA,NA,0.059,NA,IN,IN,NA,NA,NA
+oklahoma,love,9423,NA,NA,NA,NA,0.07,NA,NA,NA,NA,NA,NA
+oklahoma,mcclain,34506,NA,NA,NA,NA,0.069,NA,NA,NA,NA,NA,NA
+oklahoma,mccurtain,33151,NA,NA,NA,NA,0.066,NA,NA,NA,NA,NA,NA
+oklahoma,mayes,41259,NA,0,NA,NA,0.069,NA,10.9,22,NA,NA,NA
+oklahoma,muskogee,70990,NA,NA,NA,NA,0.03,118,10.7,20,0.831,8.2,30
+oklahoma,oklahoma,718633,1,0,8.921,47,0.072,41,9.2,18,0.777,3.5,6
+oklahoma,osage,47472,NA,NA,NA,NA,0.068,39,NA,NA,NA,NA,NA
+oklahoma,ottawa,31848,NA,IN,NA,NA,0.068,65,IN,IN,NA,NA,NA
+oklahoma,pawnee,16577,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+oklahoma,payne,77350,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+oklahoma,pittsburg,45837,NA,0,NA,NA,0.068,NA,9.8,18,NA,NA,NA
+oklahoma,pottawatomie,69442,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+oklahoma,seminole,25482,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+oklahoma,sequoyah,42391,NA,NA,IN,IN,0.068,NA,IN,IN,NA,NA,NA
+oklahoma,tulsa,603403,2,0.01,8.311,38,0.073,74,10.7,24,5.3,26.2,63
+oregon,benton,85579,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+oregon,clackamas,375992,NA,NA,NA,NA,0.066,NA,NA,NA,NA,NA,NA
+oregon,columbia,49351,NA,NA,NA,NA,0.049,NA,IN,IN,NA,NA,NA
+oregon,crook,20978,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+oregon,deschutes,157733,NA,NA,NA,NA,0.059,NA,4.5,15,NA,NA,NA
+oregon,douglas,107667,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+oregon,harney,7422,NA,NA,NA,NA,NA,NA,7.9,25,NA,NA,NA
+oregon,jackson,203206,2,NA,NA,NA,0.061,31,7.1,19,NA,NA,NA
+oregon,josephine,82713,NA,NA,NA,NA,NA,NA,6.4,20,NA,NA,NA
+oregon,klamath,66380,NA,NA,NA,NA,NA,43,9.8,35,NA,NA,NA
+oregon,lake,7895,NA,NA,NA,NA,NA,NA,7.5,26,NA,NA,NA
+oregon,lane,351715,1,NA,NA,NA,0.06,39,8.9,33,NA,NA,NA
+oregon,linn,116672,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+oregon,marion,315335,NA,NA,NA,NA,0.057,NA,IN,IN,NA,NA,NA
+oregon,multnomah,735334,2,NA,8.635,33,0.054,29,6.3,17,1.35,3.2,8
+oregon,umatilla,75889,NA,NA,NA,NA,0.063,29,6.9,18,NA,NA,NA
+oregon,union,25748,NA,NA,NA,NA,NA,31,5.9,13,NA,NA,NA
+oregon,wasco,25213,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+oregon,washington,529710,NA,NA,NA,NA,0.056,NA,6.6,16,NA,NA,NA
+oregon,yamhill,99193,NA,0.03,NA,NA,NA,NA,NA,NA,NA,NA,NA
+pennsylvania,adams,101407,0,NA,IN,IN,0.074,NA,11.7,31,NA,NA,NA
+pennsylvania,allegheny,1223348,3,0.14,15.254,51,0.083,93,16.1,49,7.106,25.9,141
+pennsylvania,armstrong,68941,NA,NA,NA,NA,0.079,NA,13.2,32,NA,NA,NA
+pennsylvania,beaver,170539,NA,0.21,11.429,IN,0.077,69,12.6,29,6.681,39.6,161
+pennsylvania,berks,411442,1,0.2,8.232,38,0.084,28,10.1,27,3.396,9.8,36
+pennsylvania,blair,127089,NA,NA,NA,NA,0.072,52,IN,IN,4.721,19.1,36
+pennsylvania,bucks,625249,2,NA,10.638,44,0.087,NA,10.4,29,2.796,13.9,24
+pennsylvania,cambria,143679,1,NA,10.485,43,0.072,63,11.9,31,4.182,19.3,56
+pennsylvania,centre,153990,NA,NA,5.187,33,0.073,NA,9,26,2.072,9.9,26
+pennsylvania,chester,498886,NA,NA,NA,NA,0.077,NA,13.8,35,NA,NA,NA
+pennsylvania,clearfield,81642,NA,NA,NA,NA,0.077,NA,NA,NA,NA,NA,NA
+pennsylvania,cumberland,235406,NA,NA,NA,NA,NA,NA,10.2,31,NA,NA,NA
+pennsylvania,dauphin,268100,1,NA,10.674,40,0.077,44,12,33,NA,NA,NA
+pennsylvania,delaware,558979,NA,0.05,11.555,50,0.076,70,13.5,33,3.03,13,34
+pennsylvania,erie,280566,1,NA,7.863,IN,0.075,47,IN,IN,5.604,13.8,28
+pennsylvania,franklin,149618,NA,IN,NA,NA,0.07,NA,NA,NA,NA,NA,NA
+pennsylvania,greene,38686,NA,NA,NA,NA,0.078,NA,NA,NA,IN,IN,IN
+pennsylvania,indiana,88880,NA,0.05,NA,NA,0.082,NA,NA,NA,5.111,21.9,95
+pennsylvania,lackawanna,214437,1,NA,9.102,43,0.074,NA,9.7,28,NA,NA,NA
+pennsylvania,lancaster,519445,NA,NA,8.443,42,0.082,44,11.7,34,NA,NA,NA
+pennsylvania,lawrence,91108,2,IN,NA,NA,0.068,78,NA,NA,2.192,15.8,53
+pennsylvania,lehigh,349497,NA,NA,NA,NA,0.08,39,IN,IN,NA,NA,NA
+pennsylvania,luzerne,320918,NA,IN,NA,NA,0.07,48,IN,IN,1.474,9.1,17
+pennsylvania,lycoming,116111,NA,NA,NA,NA,0.073,36,NA,NA,NA,NA,NA
+pennsylvania,mercer,116638,NA,NA,NA,NA,0.076,NA,IN,IN,NA,NA,NA
+pennsylvania,monroe,169842,NA,NA,NA,NA,0.078,NA,IN,IN,NA,NA,NA
+pennsylvania,montgomery,799874,NA,NA,NA,NA,0.081,NA,9.5,26,1.822,7.6,15
+pennsylvania,northampton,297735,1,NA,10.711,41,0.082,64,13.7,33,2.394,17.7,57
+pennsylvania,perry,45969,NA,NA,2.826,23,0.072,NA,IN,IN,2.868,9.3,18
+pennsylvania,philadelphia,1526006,2,0.03,22.609,61.6,0.088,91,11.3,29,2.94,17.9,25
+pennsylvania,tioga,41981,NA,NA,NA,NA,0.074,NA,NA,NA,NA,NA,NA
+pennsylvania,warren,41815,NA,NA,NA,NA,NA,NA,NA,NA,4.089,41.7,109
+pennsylvania,washington,207820,1,NA,10.525,41,0.073,47,13.2,29,5.108,15.3,42
+pennsylvania,westmoreland,365169,NA,0.05,NA,NA,0.076,NA,14,32,NA,NA,NA
+pennsylvania,york,434972,1,NA,13.411,53,0.076,70,11.3,30,2.717,8,27
+rhode island,kent,166158,NA,NA,IN,IN,0.072,26,6.3,21,NA,NA,NA
+rhode island,providence,626667,2,NA,9.83,40,0.075,37,9.2,26,1.34,13.1,21
+rhode island,washington,126979,NA,NA,NA,NA,0.079,NA,IN,IN,NA,NA,NA
+south carolina,abbeville,25417,NA,NA,NA,NA,0.067,NA,NA,NA,NA,NA,NA
+south carolina,aiken,160099,NA,NA,NA,NA,0.066,NA,IN,IN,NA,NA,NA
+south carolina,anderson,187126,NA,NA,NA,NA,0.072,NA,NA,NA,NA,NA,NA
+south carolina,beaufort,162233,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+south carolina,berkeley,177843,NA,NA,NA,NA,0.066,NA,IN,IN,NA,NA,NA
+south carolina,charleston,350209,0,IN,7.573,IN,0.068,49,9.9,23,1.07,9.5,21
+south carolina,cherokee,55342,NA,NA,NA,NA,0.072,NA,NA,NA,NA,NA,NA
+south carolina,chesterfield,46734,NA,NA,NA,NA,0.068,48,10.2,21,NA,NA,NA
+south carolina,colleton,38892,NA,NA,NA,NA,0.069,NA,IN,IN,NA,NA,NA
+south carolina,darlington,68681,NA,NA,NA,NA,0.071,NA,NA,NA,NA,NA,NA
+south carolina,edgefield,26985,NA,NA,NA,NA,0.063,NA,10.3,21,NA,NA,NA
+south carolina,florence,136885,NA,NA,NA,NA,NA,NA,10.9,25,NA,NA,NA
+south carolina,georgetown,60158,NA,NA,NA,NA,NA,110,IN,IN,NA,NA,NA
+south carolina,greenville,451225,1,IN,10.728,IN,0.07,42,11.8,24,0.567,3.4,15
+south carolina,greenwood,69661,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+south carolina,horry,269291,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+south carolina,lexington,262391,NA,NA,NA,NA,NA,76,11.6,24,1.974,12,85
+south carolina,oconee,74273,NA,NA,NA,NA,0.069,NA,8.6,20,0.494,2.2,5.2
+south carolina,orangeburg,92501,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+south carolina,pickens,119224,NA,NA,NA,NA,0.072,NA,NA,NA,NA,NA,NA
+south carolina,richland,384504,IN,0,5.345,IN,0.072,49,11,22,0.521,6.4,34
+south carolina,spartanburg,284307,NA,NA,NA,NA,0.076,NA,11.4,23,NA,NA,NA
+south carolina,york,226073,NA,NA,NA,NA,0.066,NA,IN,IN,NA,NA,NA
+south dakota,brookings,31965,NA,NA,NA,NA,0.064,81,8.6,26,NA,NA,NA
+south dakota,brown,36531,NA,NA,NA,NA,NA,46,8.7,26,NA,NA,NA
+south dakota,codington,27227,NA,NA,NA,NA,NA,125,8.9,24,NA,NA,NA
+south dakota,custer,8216,NA,NA,IN,IN,0.059,67,4.6,12,0.117,2.6,5
+south dakota,jackson,3031,NA,NA,0.509,5,0.058,31,3.9,14,1.038,3.3,9
+south dakota,meade,25434,NA,NA,NA,NA,0.057,29,IN,IN,NA,NA,NA
+south dakota,minnehaha,169468,NA,NA,6.583,48,0.064,60,9.7,28,0.247,1.7,5
+south dakota,pennington,100948,NA,NA,NA,NA,NA,97,7.5,21,NA,NA,NA
+south dakota,union,14399,0,NA,2.975,22,0.062,82,9.7,30,0.398,4.2,11.5
+tennessee,anderson,75129,NA,NA,NA,NA,0.073,NA,NA,NA,NA,NA,NA
+tennessee,blount,123010,0,NA,IN,IN,0.081,NA,11.7,22,IN,IN,IN
+tennessee,bradley,98963,NA,NA,IN,IN,NA,52,NA,NA,6.906,27.6,102
+tennessee,davidson,626681,2,NA,12.526,46,0.072,42,11.8,24,2.246,5.5,14
+tennessee,dyer,38335,NA,NA,NA,NA,NA,NA,10.1,21,NA,NA,NA
+tennessee,hamilton,336463,NA,NA,NA,NA,0.077,38,13.3,28,NA,NA,NA
+tennessee,humphreys,18538,NA,NA,NA,NA,NA,NA,NA,NA,IN,IN,IN
+tennessee,jefferson,51407,NA,NA,NA,NA,0.079,NA,NA,NA,NA,NA,NA
+tennessee,knox,432226,NA,0.03,NA,NA,0.074,48,12.5,24,NA,NA,NA
+tennessee,lawrence,41869,NA,NA,NA,NA,NA,NA,9.1,18,NA,NA,NA
+tennessee,loudon,48556,NA,NA,NA,NA,0.076,NA,12.4,25,NA,NA,NA
+tennessee,mcminn,52266,NA,NA,8.996,37,NA,51,11.9,22,3.145,14.4,73
+tennessee,madison,98294,NA,NA,NA,NA,NA,27,9.9,19,NA,NA,NA
+tennessee,maury,80956,NA,NA,NA,NA,NA,NA,9.7,18,NA,NA,NA
+tennessee,meigs,11753,NA,NA,NA,NA,0.074,NA,NA,NA,NA,NA,NA
+tennessee,montgomery,172331,NA,NA,NA,NA,NA,34,10.9,22,3.654,12,51
+tennessee,putnam,72321,NA,NA,NA,NA,NA,NA,10.3,19,NA,NA,NA
+tennessee,roane,54181,NA,0,NA,NA,NA,53,12.4,25,NA,NA,NA
+tennessee,rutherford,262604,NA,NA,NA,NA,0.073,NA,NA,NA,NA,NA,NA
+tennessee,sevier,89889,NA,NA,NA,NA,0.079,NA,NA,NA,0.686,3.7,10.4
+tennessee,shelby,927644,2,NA,NA,NA,0.076,43,11.6,22,3.082,4.6,10
+tennessee,sullivan,156823,1,0.08,10.347,48.5,0.072,NA,11.7,23,7.436,34.7,231.5
+tennessee,sumner,160645,NA,NA,NA,NA,0.078,NA,10.7,20,NA,NA,NA
+tennessee,union,19109,NA,NA,NA,NA,NA,89,NA,NA,NA,NA,NA
+tennessee,williamson,183182,NA,NA,NA,NA,0.074,NA,NA,NA,NA,NA,NA
+tennessee,wilson,113993,NA,NA,NA,NA,0.074,NA,NA,NA,NA,NA,NA
+texas,bell,310235,NA,NA,NA,NA,0.072,NA,NA,NA,NA,NA,NA
+texas,bexar,1714773,1,NA,3.831,31.9,0.078,55,8.7,16,IN,IN,IN
+texas,bowie,92565,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+texas,brazoria,313166,NA,NA,5.369,34.1,0.088,NA,IN,IN,NA,NA,NA
+texas,brewster,9232,NA,NA,NA,NA,0.064,NA,IN,IN,NA,NA,NA
+texas,caldwell,38066,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+texas,cameron,406220,1,0,NA,NA,0.068,47,IN,IN,NA,NA,NA
+texas,collin,782341,NA,0.77,NA,NA,0.074,NA,IN,IN,NA,NA,NA
+texas,dallas,2368139,2,NA,13.186,56.8,0.078,62,10.6,21,0.651,2.6,8.1
+texas,denton,662614,NA,NA,6.481,35.2,0.078,NA,NA,NA,NA,NA,NA
+texas,ector,137130,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+texas,ellis,149610,NA,NA,7.193,42.9,0.072,NA,9.7,22,0.808,4.5,17.3
+texas,el paso,800647,3,0.04,17.067,62.7,0.073,249,8.4,61,0.756,3,10.3
+texas,galveston,291309,NA,NA,3.612,33.1,0.08,39,IN,IN,2.336,13.8,40
+texas,gregg,121730,NA,NA,6.543,41.7,0.078,NA,IN,IN,1.208,9.5,76.3
+texas,harris,4092459,2,0.01,14.941,60,0.087,82,12.3,24,1.879,11.8,45.6
+texas,harrison,65631,NA,NA,3.721,24,0.074,40,10.4,22,NA,NA,NA
+texas,hays,157107,NA,NA,IN,IN,0.072,NA,NA,NA,NA,NA,NA
+texas,hidalgo,774769,NA,NA,NA,NA,0.065,50,IN,IN,NA,NA,NA
+texas,hood,51182,NA,NA,NA,NA,0.077,NA,NA,NA,NA,NA,NA
+texas,hunt,86129,NA,NA,4.544,29.3,0.064,NA,NA,NA,NA,NA,NA
+texas,jeff davis,2342,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+texas,jefferson,252273,1,NA,7.837,39.4,0.081,NA,IN,IN,1.935,18.2,81.3
+texas,johnson,150934,NA,NA,NA,NA,0.078,NA,NA,NA,NA,NA,NA
+texas,kaufman,103350,NA,NA,4.34,29.5,0.064,NA,IN,IN,0.543,2.7,15.4
+texas,kleberg,32061,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+texas,lubbock,278831,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+texas,mclennan,234906,0,NA,2.76,27,0.066,NA,IN,IN,0.394,6,7.3
+texas,marion,10546,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+texas,montgomery,455746,NA,NA,4.955,34.3,0.077,NA,IN,IN,NA,NA,NA
+texas,navarro,47735,NA,NA,4.348,30.6,0.068,NA,NA,NA,1.092,7.1,34.8
+texas,nueces,340223,NA,NA,NA,NA,0.074,35,IN,IN,0.901,9.8,43.2
+texas,orange,81837,NA,NA,5.347,33.6,0.077,NA,IN,44,NA,NA,NA
+texas,parker,116927,NA,NA,IN,IN,0.07,NA,NA,NA,NA,NA,NA
+texas,potter,121073,NA,IN,NA,NA,NA,NA,IN,IN,NA,NA,NA
+texas,rockwall,78337,NA,NA,NA,NA,0.073,NA,NA,NA,NA,NA,NA
+texas,smith,209714,NA,NA,3.595,25.8,0.072,NA,NA,NA,NA,NA,NA
+texas,tarrant,1809034,1,NA,10.331,56.9,0.085,44,10.8,25,NA,NA,NA
+texas,travis,1024266,0,NA,3.314,21.1,0.074,34,10,19,NA,NA,NA
+texas,victoria,86793,NA,NA,NA,NA,0.068,NA,NA,NA,NA,NA,NA
+texas,webb,250304,1,IN,NA,NA,0.063,66,IN,IN,NA,NA,NA
+utah,box elder,49975,NA,NA,NA,NA,0.07,NA,8.4,49,NA,NA,NA
+utah,cache,112656,NA,NA,12.555,IN,0.061,77,9.8,42,NA,NA,NA
+utah,davis,306479,NA,NA,13.072,IN,0.074,51,9,44,0.729,4.5,IN
+utah,salt lake,1029655,2,NA,17.07,58,0.075,298,11,50,4.2,11.1,27
+utah,san juan,14746,NA,NA,NA,NA,0.068,NA,NA,NA,NA,NA,NA
+utah,tooele,58218,NA,NA,NA,NA,0.074,NA,6.7,32,NA,NA,NA
+utah,uintah,32588,NA,NA,3.781,30,0.117,NA,NA,NA,NA,NA,NA
+utah,utah,516564,2,NA,14.56,50,0.071,108,8.9,48,NA,NA,NA
+utah,washington,138115,NA,NA,IN,IN,0.072,NA,4,9,NA,NA,NA
+utah,weber,231236,2,NA,16.532,IN,0.073,197,9.2,42,NA,NA,NA
+vermont,addison,36821,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+vermont,bennington,37125,NA,NA,NA,NA,0.068,NA,6.9,22,NA,NA,NA
+vermont,chittenden,156545,1,NA,8.557,38.2,0.063,30,7.1,25,NA,NA,NA
+vermont,rutland,61642,1,NA,7.685,38.5,NA,31,9.5,32,2.44,9.2,21.4
+vermont,washington,59534,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+virginia,albemarle,98970,NA,NA,NA,NA,0.071,NA,9.4,20,NA,NA,NA
+virginia,amherst,32353,NA,IN,NA,NA,NA,NA,NA,NA,NA,NA,NA
+virginia,arlington,207627,2,NA,12.85,52,0.087,NA,IN,IN,NA,NA,NA
+virginia,caroline,28545,NA,NA,IN,IN,0.074,NA,NA,NA,NA,NA,NA
+virginia,carroll,30042,NA,NA,NA,NA,NA,25,NA,NA,NA,NA,NA
+virginia,charles city,7256,NA,NA,5.435,56,0.078,NA,9.4,21,1.917,9.3,44
+virginia,chesterfield,316236,NA,NA,NA,NA,0.081,NA,10.2,22,NA,NA,NA
+virginia,culpeper,46689,NA,NA,NA,NA,NA,30,NA,NA,NA,NA,NA
+virginia,fairfax,1081726,NA,0,NA,NA,0.089,NA,9.9,24,NA,NA,NA
+virginia,fauquier,65203,NA,NA,NA,NA,0.066,NA,NA,NA,NA,NA,NA
+virginia,frederick,78305,NA,NA,NA,NA,0.071,NA,10.8,25,NA,NA,NA
+virginia,hanover,99863,NA,NA,NA,NA,0.078,NA,NA,NA,NA,NA,NA
+virginia,henrico,306935,IN,0.01,11.146,45.6,0.079,33,10,22,IN,IN,IN
+virginia,king william,15935,NA,NA,NA,NA,NA,31,NA,NA,NA,NA,NA
+virginia,loudoun,312311,NA,NA,7.58,44,0.078,NA,10.3,20,NA,NA,NA
+virginia,madison,13308,NA,NA,NA,NA,0.074,NA,IN,IN,NA,NA,NA
+virginia,page,24042,NA,NA,NA,NA,0.069,NA,10.2,24,NA,NA,NA
+virginia,prince william,402002,NA,NA,5.123,30,0.073,NA,NA,NA,NA,NA,NA
+virginia,roanoke,92376,NA,NA,7.586,41,0.073,NA,NA,NA,1.07,7,10
+virginia,rockbridge,22307,NA,NA,NA,NA,0.07,NA,NA,NA,NA,NA,NA
+virginia,rockingham,76314,NA,NA,10.432,44,0.068,NA,11.2,25,1.199,4.2,8
+virginia,stafford,128961,NA,NA,NA,NA,0.078,NA,NA,NA,NA,NA,NA
+virginia,warren,37575,NA,NA,NA,NA,NA,28,NA,NA,NA,NA,NA
+virginia,wythe,29235,NA,NA,NA,NA,0.069,NA,NA,NA,NA,NA,NA
+virginia,alexandria city,139966,2,NA,15.651,57,0.081,35,11.3,24,2.112,9.6,17
+virginia,bristol city,17835,NA,NA,NA,NA,NA,NA,10.8,21,NA,NA,NA
+virginia,chesapeake city,222209,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+virginia,fredericksburg city,24286,NA,NA,NA,NA,NA,40,NA,NA,NA,NA,NA
+virginia,hampton city,137436,1,NA,IN,IN,0.078,IN,IN,IN,IN,IN,IN
+virginia,hopewell city,22591,NA,0,NA,NA,NA,30,NA,NA,NA,NA,NA
+virginia,lynchburg city,75568,NA,NA,NA,NA,NA,NA,9.7,20,NA,NA,NA
+virginia,newport news city,180719,1,NA,IN,IN,NA,IN,IN,IN,IN,IN,IN
+virginia,norfolk city,242803,NA,NA,NA,NA,NA,37,10.2,22,NA,NA,NA
+virginia,richmond city,204214,2,NA,11.998,57,NA,NA,IN,IN,2.013,8.7,39
+virginia,roanoke city,97032,1,0.11,NA,NA,NA,33,10.2,23,NA,NA,NA
+virginia,salem city,24802,NA,NA,NA,NA,NA,NA,10.4,22,NA,NA,NA
+virginia,suffolk city,84585,NA,NA,NA,NA,0.075,NA,NA,NA,NA,NA,NA
+virginia,virginia beach city,437994,2,0.01,NA,NA,NA,NA,9.9,24,2.128,8.3,41
+virginia,winchester city,26203,NA,NA,NA,NA,NA,32,NA,NA,NA,NA,NA
+washington,adams,18728,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+washington,asotin,21623,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+washington,benton,175177,NA,NA,NA,NA,NA,50,IN,IN,NA,NA,NA
+washington,chelan,72453,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+washington,clallam,71404,IN,NA,NA,NA,0.054,NA,IN,IN,IN,IN,IN
+washington,clark,425363,NA,NA,NA,NA,0.054,NA,6.2,18,NA,NA,NA
+washington,cowlitz,102410,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+washington,grant,89120,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+washington,grays harbor,72797,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+washington,jefferson,29872,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+washington,king,1931249,1,NA,NA,NA,0.068,NA,IN,IN,1.136,8,24.5
+washington,kitsap,251133,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+washington,kittitas,40915,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+washington,lewis,75455,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+washington,mason,60699,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+washington,okanogan,41120,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+washington,pierce,795225,NA,NA,NA,NA,0.058,NA,7,21,NA,NA,NA
+washington,skagit,116901,NA,NA,6.687,28.6,0.086,NA,IN,IN,NA,NA,NA
+washington,skamania,11066,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+washington,snohomish,713335,NA,NA,NA,NA,NA,NA,7.1,24,NA,NA,NA
+washington,spokane,471221,2,NA,NA,NA,0.058,43,7.6,20,NA,NA,NA
+washington,stevens,43531,NA,NA,NA,NA,NA,121,IN,IN,NA,NA,NA
+washington,thurston,252264,NA,NA,NA,NA,0.054,NA,IN,IN,NA,NA,NA
+washington,walla walla,58781,NA,NA,NA,NA,NA,84,IN,IN,NA,NA,NA
+washington,whatcom,201140,NA,NA,NA,NA,0.048,NA,IN,IN,NA,NA,NA
+washington,whitman,44776,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+washington,yakima,243231,NA,NA,NA,NA,NA,36,8.5,35,NA,NA,NA
+west virginia,berkeley,104169,NA,NA,NA,NA,0.073,NA,12.3,36,NA,NA,NA
+west virginia,brooke,24069,1,NA,NA,NA,NA,59,14.1,32,8.842,42,143
+west virginia,cabell,96319,NA,NA,NA,NA,0.068,NA,13.2,28,3.178,12.6,31
+west virginia,greenbrier,35480,NA,NA,NA,NA,0.069,NA,NA,NA,NA,NA,NA
+west virginia,hancock,30676,1,NA,NA,NA,0.076,49,12.6,31,5.78,35.6,85
+west virginia,harrison,69099,NA,NA,NA,NA,NA,NA,12,22,NA,NA,NA
+west virginia,kanawha,193063,NA,0,NA,NA,0.07,49,13,25,3.889,21,51
+west virginia,marion,56418,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+west virginia,marshall,33107,NA,NA,NA,NA,NA,NA,14.1,34,6.677,19.7,101
+west virginia,mercer,62264,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+west virginia,monongalia,96189,NA,0.01,NA,NA,0.077,NA,11.3,24,3.169,11.8,24
+west virginia,ohio,44443,NA,0.01,NA,NA,0.076,NA,12.9,28,NA,NA,NA
+west virginia,raleigh,78859,NA,NA,NA,NA,NA,NA,10.3,21,NA,NA,NA
+west virginia,summers,13927,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+west virginia,wood,86956,NA,NA,NA,NA,0.073,NA,13.4,28,6.299,22,84
+wisconsin,ashland,16157,NA,NA,NA,NA,0.059,NA,5.3,17,NA,NA,NA
+wisconsin,brown,248007,NA,NA,NA,NA,0.065,NA,10.2,36,2.273,15.7,69
+wisconsin,columbia,56833,NA,NA,NA,NA,0.063,NA,NA,NA,NA,NA,NA
+wisconsin,dane,488073,NA,NA,NA,NA,0.061,39,10.1,30,NA,NA,NA
+wisconsin,dodge,88759,0,NA,NA,NA,0.064,48,9.5,30,0.747,3.3,IN
+wisconsin,door,27785,NA,NA,NA,NA,0.077,NA,IN,IN,NA,NA,NA
+wisconsin,douglas,44159,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+wisconsin,eau claire,98736,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+wisconsin,florence,4423,NA,NA,NA,NA,0.06,NA,NA,NA,NA,NA,NA
+wisconsin,fond du lac,101633,NA,NA,NA,NA,0.062,NA,NA,NA,NA,NA,NA
+wisconsin,forest,9304,NA,NA,IN,IN,0.063,IN,6.5,22,1.854,5,8
+wisconsin,grant,51208,NA,NA,NA,NA,NA,NA,10.3,30,NA,NA,NA
+wisconsin,jefferson,83686,NA,NA,NA,NA,0.066,NA,IN,IN,NA,NA,NA
+wisconsin,kenosha,166426,NA,NA,NA,NA,0.081,NA,10,23,NA,NA,NA
+wisconsin,kewaunee,20574,NA,NA,NA,NA,0.078,NA,NA,NA,NA,NA,NA
+wisconsin,la crosse,114638,NA,NA,NA,NA,0.062,NA,9.7,29,NA,NA,NA
+wisconsin,manitowoc,81442,NA,NA,IN,IN,0.077,NA,9.2,30,NA,NA,NA
+wisconsin,marathon,134063,NA,NA,NA,NA,0.06,NA,NA,NA,NA,NA,NA
+wisconsin,milwaukee,947735,NA,NA,12.898,53,0.082,54,11,33,IN,IN,IN
+wisconsin,oneida,35998,NA,NA,NA,NA,0.06,NA,NA,NA,5.171,69.8,162
+wisconsin,outagamie,176695,NA,NA,NA,NA,0.062,NA,9.7,37,NA,NA,NA
+wisconsin,ozaukee,86395,NA,NA,NA,NA,0.078,NA,9.3,28,NA,NA,NA
+wisconsin,racine,195408,NA,NA,NA,NA,0.078,NA,NA,NA,NA,NA,NA
+wisconsin,rock,160331,NA,NA,NA,NA,0.066,NA,IN,IN,NA,NA,NA
+wisconsin,st. croix,84345,NA,NA,NA,NA,0.065,NA,9.2,27,NA,NA,NA
+wisconsin,sauk,61976,NA,NA,NA,NA,0.06,NA,8.3,25,NA,NA,NA
+wisconsin,sheboygan,115507,NA,0.15,NA,NA,0.085,NA,NA,NA,NA,NA,NA
+wisconsin,taylor,20689,NA,NA,NA,NA,NA,NA,8,33,NA,NA,NA
+wisconsin,vernon,29773,NA,NA,NA,NA,0.063,NA,NA,NA,NA,NA,NA
+wisconsin,vilas,21430,NA,NA,NA,NA,0.061,NA,5.7,21,NA,NA,NA
+wisconsin,walworth,102228,NA,NA,NA,NA,0.065,NA,NA,NA,NA,NA,NA
+wisconsin,washington,131887,NA,NA,NA,NA,0.064,NA,NA,NA,NA,NA,NA
+wisconsin,waukesha,389891,NA,NA,NA,NA,0.062,50,11.4,36,NA,NA,NA
+wisconsin,waupaca,52410,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+wisconsin,winnebago,166994,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+wisconsin,wood,74749,NA,NA,NA,NA,NA,NA,IN,IN,NA,NA,NA
+wyoming,albany,36299,NA,NA,NA,NA,NA,116,4.8,14,NA,NA,NA
+wyoming,campbell,46133,NA,NA,6.674,34,0.063,135,IN,IN,1.603,19.4,52
+wyoming,carbon,15885,NA,NA,1.382,8,0.065,IN,NA,NA,NA,NA,NA
+wyoming,converse,13833,NA,NA,IN,IN,NA,108,IN,IN,NA,NA,NA
+wyoming,crook,7083,NA,NA,NA,NA,0.058,NA,NA,NA,NA,NA,NA
+wyoming,fremont,40123,NA,NA,0.911,IN,0.068,56,9.3,32,NA,NA,NA
+wyoming,laramie,91738,NA,NA,NA,NA,NA,40,4.2,9,NA,NA,NA
+wyoming,lincoln,18106,NA,NA,NA,NA,NA,91,NA,NA,NA,NA,NA
+wyoming,natrona,75450,NA,NA,NA,NA,NA,32,4.6,12,NA,NA,NA
+wyoming,park,28205,NA,NA,NA,NA,NA,27,4.5,11,NA,NA,NA
+wyoming,platte,8667,NA,NA,NA,NA,NA,56,NA,NA,NA,NA,NA
+wyoming,sheridan,29116,NA,NA,NA,NA,NA,61,8.7,27,NA,NA,NA
+wyoming,sublette,10247,NA,NA,2.843,39,0.067,40,6,15,NA,NA,NA
+wyoming,sweetwater,43806,NA,NA,4.845,40,0.067,139,IN,IN,IN,IN,IN
+wyoming,teton,21294,1,NA,NA,NA,0.066,45,4.3,9,NA,NA,NA
+wyoming,uinta,21118,NA,NA,1.46,15,0.065,103,NA,NA,NA,NA,NA
+wyoming,weston,7208,NA,NA,NA,NA,NA,NA,NA,NA,0.383,5.5,18
