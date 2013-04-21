@@ -2,6 +2,14 @@
 
 SpaceAppsChallenge competition
 
+# Requirements
+
+* R 2.15.3
+  - shiny
+  - maps
+  - ggplot2
+* RStudio (optional)
+
 # Run Application
 
 ## Development

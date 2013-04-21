@@ -1,4 +1,5 @@
 library(shiny) # Load shiny
+library(ggplot2)
 
 # inputId
 
@@ -19,6 +20,6 @@ shinyUI(pageWithSidebar(
   ),
   
   mainPanel(
-    plotOutput(outputId = "demo")
+    plotOutput(outputId = "map")
   )
 ))

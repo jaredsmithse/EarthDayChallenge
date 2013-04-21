@@ -1,9 +1,23 @@
 library(shiny) # Load shiny
+library(ggplot2) # Fancy Plots
+library(maps) # Map Data
+
+
+poly.state <- map_data("state")
 
 shinyServer(function(input, output) {
-  
-  output[["demo"]] <- renderPlot(function() {
-    plot(1:10, 10:1,
-         main = paste("This is", input[["time"]]))
+  output[["map"]] <- renderPlot({
+    p <- ggplot() +
+      geom_polygon(
+        data = poly.state,
+        aes(
+          x = long,
+          y = lat,
+          group = group,
+          fill = region), # Color is one-per-region
+        colour = "white"  # Ouline color is white
+      )
+    
+    print(p)
   })
 })
